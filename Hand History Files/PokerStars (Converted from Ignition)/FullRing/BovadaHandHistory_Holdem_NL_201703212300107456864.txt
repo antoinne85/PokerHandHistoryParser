@@ -1,0 +1,1524 @@
+PokerStars Hand #3436376499: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:25:00
+Table '#11436030' 6-max Seat #6 is the button
+Seat 1: PLR_5323526UJ ($6.33 in chips)
+Seat 3: Hero ($5 in chips)
+Seat 4: PLR_1295177YE ($3.96 in chips)
+Seat 5: PLR_5429612AG ($5.66 in chips)
+Seat 6: PLR_6094742QD ($5 in chips)
+PLR_5323526UJ: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9h 9c]
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+PLR_5323526UJ: folds
+Hero: doesn't show hand
+Hero collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: PLR_5323526UJ (small blind) showed
+Seat 3: Hero (big blind) won ($0.07)
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD (button) showed
+
+
+
+PokerStars Hand #3436376631: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:25:18
+Table '#11436030' 6-max Seat #1 is the button
+Seat 1: PLR_5323526UJ ($6.31 in chips)
+Seat 3: Hero ($5.02 in chips)
+Seat 4: PLR_1295177YE ($3.96 in chips)
+Seat 5: PLR_5429612AG ($5.66 in chips)
+Seat 6: PLR_6094742QD ($5 in chips)
+Hero: posts small blind $0.02
+PLR_1295177YE: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4d Jd]
+Table leave user
+PLR_5429612AG: calls $0.05 
+PLR_6094742QD: raises $0.22 to $0.22
+PLR_5323526UJ: folds
+Hero: folds
+PLR_1295177YE: calls $0.17 
+PLR_5429612AG: calls $0.17 
+*** FLOP *** [4c Ts 4s]
+PLR_1295177YE: checks
+PLR_5429612AG: checks
+PLR_6094742QD: bets $0.42 
+PLR_1295177YE: calls $0.42 
+PLR_5429612AG: folds
+*** TURN *** [4c Ts 4s] [6c]
+PLR_1295177YE: checks
+Seat sit down
+PLR_6094742QD: bets $1.02 
+Table deposit $5 
+PLR_1295177YE: folds
+Uncalled bet ($1.02) returned to PLR_6094742QD
+PLR_6094742QD: doesn't show hand
+PLR_6094742QD collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.07
+Board [4c Ts 4s 6c]
+Seat 1: PLR_5323526UJ (button) showed
+Seat 3: Hero (small blind) showed
+Seat 4: PLR_1295177YE (big blind) showed
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD won ($1.45)
+
+
+
+PokerStars Hand #3436377081: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:26:20
+Table '#11436030' 6-max Seat #3 is the button
+Seat 1: PLR_5323526UJ ($6.31 in chips)
+Seat 3: Hero ($5 in chips)
+Seat 4: PLR_1295177YE ($3.32 in chips)
+Seat 5: PLR_5429612AG ($5.44 in chips)
+Seat 6: PLR_6094742QD ($5.81 in chips)
+PLR_1295177YE: posts small blind $0.02
+PLR_5429612AG: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4s 5s]
+PLR_6094742QD: folds
+PLR_5323526UJ: raises $0.15 to $0.15
+Hero: calls $0.15 
+PLR_1295177YE: calls $0.13 
+PLR_5429612AG: calls $0.10 
+*** FLOP *** [7s 7d 3c]
+PLR_1295177YE: checks
+PLR_5429612AG: checks
+PLR_5323526UJ: checks
+Hero: checks
+*** TURN *** [7s 7d 3c] [6d]
+PLR_1295177YE: checks
+PLR_5429612AG: bets $0.20 
+PLR_5323526UJ: folds
+Hero: calls $0.20 
+PLR_1295177YE: folds
+*** RIVER *** [7s 7d 3c 6d] [Td]
+PLR_5429612AG: bets $1 
+Hero: calls $1 
+*** SHOW DOWN ***
+PLR_5429612AG: shows [9h 8s] (a straight, Six to Ten)
+Hero: shows [4s 5s] (Straight)
+PLR_5429612AG collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board [7s 7d 3c 6d Td]
+Seat 1: PLR_5323526UJ showed
+Seat 3: Hero (button) showed [4s 5s]
+Seat 4: PLR_1295177YE (small blind) showed
+Seat 5: PLR_5429612AG (big blind) showed [9h 8s] and won ($2.85) with a straight, Six to Ten
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436377684: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:27:47
+Table '#11436030' 6-max Seat #4 is the button
+Seat 1: PLR_5323526UJ ($6.16 in chips)
+Seat 3: Hero ($3.65 in chips)
+Seat 4: PLR_1295177YE ($3.17 in chips)
+Seat 5: PLR_5429612AG ($6.94 in chips)
+Seat 6: PLR_6094742QD ($5.81 in chips)
+PLR_5429612AG: posts small blind $0.02
+PLR_6094742QD: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9h 3c]
+PLR_5323526UJ: folds
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: calls $0.03 
+PLR_6094742QD: checks
+*** FLOP *** [Qc Kd Kh]
+PLR_5429612AG: checks
+PLR_6094742QD: bets $0.07 
+PLR_5429612AG: folds
+Uncalled bet ($0.07) returned to PLR_6094742QD
+PLR_6094742QD: doesn't show hand
+PLR_6094742QD collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Board [Qc Kd Kh]
+Seat 1: PLR_5323526UJ showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE (button) showed
+Seat 5: PLR_5429612AG (small blind) showed
+Seat 6: PLR_6094742QD (big blind) won ($0.1)
+
+
+
+PokerStars Hand #3436378005: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:28:33
+Table '#11436030' 6-max Seat #5 is the button
+Seat 1: PLR_5323526UJ ($6.16 in chips)
+Seat 3: Hero ($3.65 in chips)
+Seat 4: PLR_1295177YE ($4.17 in chips)
+Seat 5: PLR_5429612AG ($6.89 in chips)
+Seat 6: PLR_6094742QD ($5.86 in chips)
+PLR_6094742QD: posts small blind $0.02
+PLR_5323526UJ: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8h 6h]
+Hero: raises $0.17 to $0.17
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+PLR_5323526UJ: calls $0.12 
+*** FLOP *** [6d 5s Kc]
+PLR_5323526UJ: checks
+Hero: bets $0.23 
+PLR_5323526UJ: folds
+Uncalled bet ($0.23) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [6d 5s Kc]
+Seat 1: PLR_5323526UJ (big blind) showed
+Seat 3: Hero won ($0.35)
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG (button) showed
+Seat 6: PLR_6094742QD (small blind) showed
+
+
+
+PokerStars Hand #3436378249: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:29:09
+Table '#11436030' 6-max Seat #6 is the button
+Seat 1: PLR_5323526UJ ($5.99 in chips)
+Seat 2: PLR_1967623WB ($5 in chips)
+Seat 3: Hero ($5 in chips)
+Seat 4: PLR_1295177YE ($4.17 in chips)
+Seat 5: PLR_5429612AG ($6.89 in chips)
+Seat 6: PLR_6094742QD ($5.84 in chips)
+PLR_5323526UJ: posts small blind $0.02
+PLR_1967623WB: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6c 8c]
+Hero: folds
+PLR_1295177YE: raises $0.15 to $0.15
+PLR_5429612AG: calls $0.15 
+PLR_6094742QD: folds
+PLR_5323526UJ: folds
+PLR_1967623WB: calls $0.10 
+*** FLOP *** [Qc Js 6s]
+PLR_1967623WB: checks
+PLR_1295177YE: bets $0.28 
+PLR_5429612AG: calls $0.28 
+PLR_1967623WB: calls $0.28 
+*** TURN *** [Qc Js 6s] [2c]
+PLR_1967623WB: checks
+PLR_1295177YE: bets $0.80 
+PLR_5429612AG: calls $0.80 
+PLR_1967623WB: folds
+*** RIVER *** [Qc Js 6s 2c] [Td]
+PLR_1295177YE: bets $2.91 
+PLR_5429612AG: folds
+Uncalled bet ($2.91) returned to PLR_1295177YE
+PLR_1295177YE: doesn't show hand
+PLR_1295177YE collected $2.77 from pot
+*** SUMMARY ***
+Total pot $2.91 | Rake $0.14
+Board [Qc Js 6s 2c Td]
+Seat 1: PLR_5323526UJ (small blind) showed
+Seat 2: PLR_1967623WB (big blind) showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE won ($2.77)
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD (button) showed
+
+
+
+PokerStars Hand #3436378847: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:30:35
+Table '#11436030' 6-max Seat #1 is the button
+Seat 1: PLR_5323526UJ ($5.97 in chips)
+Seat 2: PLR_1967623WB ($5 in chips)
+Seat 3: Hero ($5 in chips)
+Seat 4: PLR_1295177YE ($5.71 in chips)
+Seat 5: PLR_5429612AG ($5.66 in chips)
+Seat 6: PLR_6094742QD ($5.84 in chips)
+PLR_1967623WB: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ah Ac]
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+PLR_5323526UJ: folds
+PLR_1967623WB: raises $0.18 to $0.20
+Hero: raises $0.50 to $0.55
+PLR_1967623WB: raises $1.45 to $1.65
+Hero: raises $3.35 to $5.00 and is all-in
+Seat sit down
+Table deposit $5 
+PLR_1967623WB: calls $3.35 and is all-in
+*** FLOP *** [2h Qd 2s]
+*** TURN *** [2h Qd 2s] [9d]
+*** RIVER *** [2h Qd 2s 9d] [4d]
+*** SHOW DOWN ***
+PLR_1967623WB: shows [Jc Jh] (two pair, Jacks and Queens)
+Hero: shows [Ah Ac] (two pair, Aces and Queens)
+Hero collected $9.5 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50
+Board [2h Qd 2s 9d 4d]
+Seat 1: PLR_5323526UJ (button) showed
+Seat 2: PLR_1967623WB (small blind) showed [Jc Jh] and lost with two pair, Jacks and Queens
+Seat 3: Hero (big blind) showed [Ah Ac] and won ($9.5) with two pair, Aces and Queens
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436379422: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:31:59
+Table '#11436030' 6-max Seat #6 is the button
+Seat 3: Hero ($9.50 in chips)
+Seat 5: PLR_5429612AG ($5.66 in chips)
+Seat 6: PLR_6094742QD ($5.84 in chips)
+Set dealer
+Table deposit $5 
+Hero: posts small blind $0.02
+PLR_5429612AG: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ah 2d]
+Seat re-join
+PLR_6094742QD: folds
+Hero: raises $0.13 to $0.15
+PLR_5429612AG: calls $0.10 
+*** FLOP *** [Kd Td 9d]
+Hero: bets $0.20 
+PLR_5429612AG: calls $0.20 
+*** TURN *** [Kd Td 9d] [8d]
+Hero: bets $0.45 
+PLR_5429612AG: folds
+Uncalled bet ($0.45) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.7 | Rake $0.03
+Board [Kd Td 9d 8d]
+Seat 3: Hero (small blind) won ($0.67)
+Seat 5: PLR_5429612AG (big blind) showed
+Seat 6: PLR_6094742QD (button) showed
+
+
+
+PokerStars Hand #3436379848: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:33:01
+Table '#11436030' 6-max Seat #3 is the button
+Seat 2: PLR_1967623WB ($5 in chips)
+Seat 3: Hero ($9.82 in chips)
+Seat 5: PLR_5429612AG ($5.31 in chips)
+Seat 6: PLR_6094742QD ($5.84 in chips)
+PLR_5429612AG: posts small blind $0.02
+PLR_6094742QD: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4c 2d]
+PLR_1967623WB: folds
+Hero: folds
+PLR_5429612AG: raises $0.23 to $0.25
+PLR_6094742QD: folds
+Uncalled bet ($0.20) returned to PLR_5429612AG
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Seat 2: PLR_1967623WB showed
+Seat 3: Hero (button) showed
+Seat 5: PLR_5429612AG (small blind) won ($0.1)
+Seat 6: PLR_6094742QD (big blind) showed
+
+
+
+PokerStars Hand #3436380009: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:33:24
+Table '#11436030' 6-max Seat #5 is the button
+Seat 1: PLR_6845331HW ($5 in chips)
+Seat 2: PLR_1967623WB ($5 in chips)
+Seat 3: Hero ($9.82 in chips)
+Seat 5: PLR_5429612AG ($5.36 in chips)
+Seat 6: PLR_6094742QD ($5.79 in chips)
+PLR_6094742QD: posts small blind $0.02
+PLR_6845331HW: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6s Td]
+PLR_1967623WB: folds
+Hero: folds
+PLR_5429612AG: folds
+PLR_6094742QD: calls $0.03 
+PLR_6845331HW: raises $0.10 to $0.15
+PLR_6094742QD: folds
+Uncalled bet ($0.10) returned to PLR_6845331HW
+PLR_6845331HW: doesn't show hand
+PLR_6845331HW collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Seat 1: PLR_6845331HW (big blind) won ($0.1)
+Seat 2: PLR_1967623WB showed
+Seat 3: Hero showed
+Seat 5: PLR_5429612AG (button) showed
+Seat 6: PLR_6094742QD (small blind) showed
+
+
+
+PokerStars Hand #3436380183: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:33:51
+Table '#11436030' 6-max Seat #6 is the button
+Seat 1: PLR_6845331HW ($5.05 in chips)
+Seat 2: PLR_1967623WB ($5 in chips)
+Seat 3: Hero ($9.82 in chips)
+Seat 5: PLR_5429612AG ($5.36 in chips)
+Seat 6: PLR_6094742QD ($5.74 in chips)
+PLR_6845331HW: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9s 2h]
+PLR_1967623WB: Seat re-join
+PLR_5429612AG: raises $0.20 to $0.20
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+Hero: folds
+Uncalled bet ($0.15) returned to PLR_5429612AG
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW (small blind) showed
+Seat 3: Hero (big blind) showed
+Seat 5: PLR_5429612AG won ($0.12)
+Seat 6: PLR_6094742QD (button) showed
+
+
+
+PokerStars Hand #3436380368: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:34:18
+Table '#11436030' 6-max Seat #1 is the button
+Seat 1: PLR_6845331HW ($5.03 in chips)
+Seat 3: Hero ($9.77 in chips)
+Seat 5: PLR_5429612AG ($5.43 in chips)
+Seat 6: PLR_6094742QD ($5.74 in chips)
+Hero: posts small blind $0.02
+PLR_5429612AG: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5s Qs]
+PLR_6094742QD: folds
+Table leave user
+PLR_6845331HW: folds
+Hero: raises $0.13 to $0.15
+PLR_5429612AG: folds
+Uncalled bet ($0.10) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Seat 1: PLR_6845331HW (button) showed
+Seat 3: Hero (small blind) won ($0.1)
+Seat 5: PLR_5429612AG (big blind) showed
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436380563: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:34:45
+Table '#11436030' 6-max Seat #3 is the button
+Seat 1: PLR_6845331HW ($5.03 in chips)
+Seat 2: PLR_1967623WB ($5 in chips)
+Seat 3: Hero ($9.82 in chips)
+Seat 5: PLR_5429612AG ($5.38 in chips)
+Seat 6: PLR_6094742QD ($5.74 in chips)
+PLR_5429612AG: posts small blind $0.02
+PLR_6094742QD: posts big blind $0.05
+PLR_1967623WB: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Hero [Jh 2h]
+Seat sit down
+Table deposit $5 
+PLR_6845331HW: folds
+PLR_1967623WB: checks
+Hero: folds
+PLR_5429612AG: raises $0.23 to $0.25
+PLR_6094742QD: calls $0.20 
+PLR_1967623WB: folds
+*** FLOP *** [5s 8h 7h]
+PLR_5429612AG: checks
+PLR_6094742QD: checks
+*** TURN *** [5s 8h 7h] [Kh]
+PLR_5429612AG: bets $0.50 
+PLR_6094742QD: folds
+Uncalled bet ($0.50) returned to PLR_5429612AG
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02
+Board [5s 8h 7h Kh]
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_1967623WB showed
+Seat 3: Hero (button) showed
+Seat 5: PLR_5429612AG (small blind) won ($0.55)
+Seat 6: PLR_6094742QD (big blind) showed
+
+
+
+PokerStars Hand #3436380951: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:35:39
+Table '#11436030' 6-max Seat #5 is the button
+Seat 1: PLR_6845331HW ($5.03 in chips)
+Seat 2: PLR_1967623WB ($4.93 in chips)
+Seat 3: Hero ($9.82 in chips)
+Seat 5: PLR_5429612AG ($5.68 in chips)
+Seat 6: PLR_6094742QD ($5.49 in chips)
+PLR_6094742QD: posts small blind $0.02
+PLR_6845331HW: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qh 3h]
+PLR_1967623WB: folds
+Hero: folds
+PLR_5429612AG: calls $0.05 
+PLR_6094742QD: folds
+PLR_6845331HW: checks
+*** FLOP *** [Ah Ts 3c]
+PLR_6845331HW: checks
+PLR_5429612AG: bets $0.20 
+PLR_6845331HW: folds
+Uncalled bet ($0.20) returned to PLR_5429612AG
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Board [Ah Ts 3c]
+Seat 1: PLR_6845331HW (big blind) showed
+Seat 2: PLR_1967623WB showed
+Seat 3: Hero showed
+Seat 5: PLR_5429612AG (button) won ($0.12)
+Seat 6: PLR_6094742QD (small blind) showed
+
+
+
+PokerStars Hand #3436381152: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:36:09
+Table '#11436030' 6-max Seat #6 is the button
+Seat 1: PLR_6845331HW ($4.98 in chips)
+Seat 2: PLR_1967623WB ($4.93 in chips)
+Seat 3: Hero ($9.82 in chips)
+Seat 5: PLR_5429612AG ($5.75 in chips)
+Seat 6: PLR_6094742QD ($5.47 in chips)
+PLR_6845331HW: posts small blind $0.02
+PLR_1967623WB: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4c 5d]
+Hero: folds
+PLR_5429612AG: calls $0.05 
+PLR_6094742QD: calls $0.05 
+PLR_6845331HW: folds
+PLR_1967623WB: checks
+*** FLOP *** [Qc 3h 9h]
+PLR_1967623WB: checks
+PLR_5429612AG: bets $0.25 
+PLR_6094742QD: folds
+PLR_1967623WB: folds
+Uncalled bet ($0.25) returned to PLR_5429612AG
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.00
+Board [Qc 3h 9h]
+Seat 1: PLR_6845331HW (small blind) showed
+Seat 2: PLR_1967623WB (big blind) showed
+Seat 3: Hero showed
+Seat 5: PLR_5429612AG won ($0.17)
+Seat 6: PLR_6094742QD (button) showed
+
+
+
+PokerStars Hand #3436381460: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:36:52
+Table '#11436030' 6-max Seat #1 is the button
+Seat 1: PLR_6845331HW ($4.96 in chips)
+Seat 2: PLR_1967623WB ($4.88 in chips)
+Seat 3: Hero ($9.82 in chips)
+Seat 5: PLR_5429612AG ($5.87 in chips)
+Seat 6: PLR_6094742QD ($5.42 in chips)
+PLR_1967623WB: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2c 8c]
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_1967623WB: raises $0.13 to $0.15
+Hero: calls $0.10 
+*** FLOP *** [5h 9d 3d]
+PLR_1967623WB: bets $0.15 
+Hero: folds
+Uncalled bet ($0.15) returned to PLR_1967623WB
+PLR_1967623WB: doesn't show hand
+PLR_1967623WB collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.3 | Rake $0.01
+Board [5h 9d 3d]
+Seat 1: PLR_6845331HW (button) showed
+Seat 2: PLR_1967623WB (small blind) won ($0.29)
+Seat 3: Hero (big blind) showed
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436381738: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:37:30
+Table '#11436030' 6-max Seat #2 is the button
+Seat 1: PLR_6845331HW ($4.96 in chips)
+Seat 2: PLR_1967623WB ($5.02 in chips)
+Seat 3: Hero ($9.67 in chips)
+Seat 4: PLR_1295177YE ($5 in chips)
+Seat 5: PLR_5429612AG ($5.87 in chips)
+Seat 6: PLR_6094742QD ($5.42 in chips)
+Hero: posts small blind $0.02
+PLR_1295177YE: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ad Th]
+PLR_5429612AG: raises $0.30 to $0.30
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_1967623WB: folds
+Hero: folds
+PLR_1295177YE: folds
+Uncalled bet ($0.25) returned to PLR_5429612AG
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_1967623WB (button) showed
+Seat 3: Hero (small blind) showed
+Seat 4: PLR_1295177YE (big blind) showed
+Seat 5: PLR_5429612AG won ($0.12)
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436381946: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:37:57
+Table '#11436030' 6-max Seat #3 is the button
+Seat 1: PLR_6845331HW ($4.96 in chips)
+Seat 2: PLR_1967623WB ($5.02 in chips)
+Seat 3: Hero ($9.65 in chips)
+Seat 4: PLR_1295177YE ($4.95 in chips)
+Seat 5: PLR_5429612AG ($5.94 in chips)
+Seat 6: PLR_6094742QD ($5.42 in chips)
+PLR_1295177YE: posts small blind $0.02
+PLR_5429612AG: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ts 2c]
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_1967623WB: folds
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_1967623WB showed
+Seat 3: Hero (button) showed
+Seat 4: PLR_1295177YE (small blind) showed
+Seat 5: PLR_5429612AG (big blind) won ($0.07)
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436382164: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:38:28
+Table '#11436030' 6-max Seat #4 is the button
+Seat 1: PLR_6845331HW ($4.96 in chips)
+Seat 2: PLR_1967623WB ($5.02 in chips)
+Seat 3: Hero ($9.65 in chips)
+Seat 4: PLR_1295177YE ($4.93 in chips)
+Seat 5: PLR_5429612AG ($5.96 in chips)
+Seat 6: PLR_6094742QD ($5.42 in chips)
+PLR_5429612AG: posts small blind $0.02
+PLR_6094742QD: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qc 5h]
+PLR_6845331HW: folds
+PLR_1967623WB: folds
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: calls $0.03 
+PLR_6094742QD: checks
+*** FLOP *** [Qs 4d Ah]
+PLR_5429612AG: checks
+PLR_6094742QD: checks
+*** TURN *** [Qs 4d Ah] [Ac]
+PLR_5429612AG: checks
+PLR_6094742QD: checks
+*** RIVER *** [Qs 4d Ah Ac] [3d]
+PLR_5429612AG: checks
+PLR_6094742QD: checks
+*** SHOW DOWN ***
+PLR_5429612AG: shows [7c 6c] (a pair of Aces)
+PLR_6094742QD: shows [7s Kc] (a pair of Aces)
+PLR_6094742QD collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Board [Qs 4d Ah Ac 3d]
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_1967623WB showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE (button) showed
+Seat 5: PLR_5429612AG (small blind) showed [7c 6c] and lost with a pair of Aces
+Seat 6: PLR_6094742QD (big blind) showed [7s Kc] and won ($0.1) with a pair of Aces
+
+
+
+PokerStars Hand #3436382609: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:39:29
+Table '#11436030' 6-max Seat #5 is the button
+Seat 1: PLR_6845331HW ($4.96 in chips)
+Seat 2: PLR_1967623WB ($5.02 in chips)
+Seat 3: Hero ($9.65 in chips)
+Seat 4: PLR_1295177YE ($4.93 in chips)
+Seat 5: PLR_5429612AG ($5.91 in chips)
+Seat 6: PLR_6094742QD ($5.47 in chips)
+PLR_6094742QD: posts small blind $0.02
+PLR_6845331HW: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2c 7c]
+PLR_1967623WB: folds
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: calls $0.03 
+PLR_6845331HW: checks
+*** FLOP *** [Ad 4c 6h]
+PLR_6094742QD: bets $0.07 
+PLR_6845331HW: folds
+Uncalled bet ($0.07) returned to PLR_6094742QD
+PLR_6094742QD: doesn't show hand
+PLR_6094742QD collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Board [Ad 4c 6h]
+Seat 1: PLR_6845331HW (big blind) showed
+Seat 2: PLR_1967623WB showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG (button) showed
+Seat 6: PLR_6094742QD (small blind) won ($0.1)
+
+
+
+PokerStars Hand #3436382852: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:40:04
+Table '#11436030' 6-max Seat #6 is the button
+Seat 1: PLR_6845331HW ($4.91 in chips)
+Seat 3: Hero ($9.65 in chips)
+Seat 4: PLR_1295177YE ($4.93 in chips)
+Seat 5: PLR_5429612AG ($5.91 in chips)
+Seat 6: PLR_6094742QD ($5.52 in chips)
+PLR_6845331HW: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9c Th]
+PLR_1295177YE: raises $0.15 to $0.15
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+Hero: folds
+Uncalled bet ($0.10) returned to PLR_1295177YE
+PLR_1295177YE: doesn't show hand
+PLR_1295177YE collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW (small blind) showed
+Seat 3: Hero (big blind) showed
+Seat 4: PLR_1295177YE won ($0.12)
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD (button) showed
+
+
+
+PokerStars Hand #3436383004: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:40:26
+Table '#11436030' 6-max Seat #1 is the button
+Seat 1: PLR_6845331HW ($4.89 in chips)
+Seat 3: Hero ($9.60 in chips)
+Seat 4: PLR_1295177YE ($5 in chips)
+Seat 5: PLR_5429612AG ($5.91 in chips)
+Seat 6: PLR_6094742QD ($5.52 in chips)
+Hero: posts small blind $0.02
+PLR_1295177YE: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5c 5d]
+PLR_5429612AG: calls $0.05 
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+Hero: raises $0.18 to $0.20
+PLR_1295177YE: folds
+PLR_5429612AG: calls $0.15 
+*** FLOP *** [2h 7c As]
+Hero: bets $0.27 
+PLR_5429612AG: folds
+Uncalled bet ($0.27) returned to Hero
+Seat sit down
+Hero: doesn't show hand
+Hero collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02
+Board [2h 7c As]
+Seat 1: PLR_6845331HW (button) showed
+Seat 3: Hero (small blind) won ($0.43)
+Seat 4: PLR_1295177YE (big blind) showed
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436383378: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:41:21
+Table '#11436030' 6-max Seat #3 is the button
+Seat 1: PLR_6845331HW ($4.89 in chips)
+Seat 3: Hero ($9.83 in chips)
+Seat 4: PLR_1295177YE ($4.95 in chips)
+Seat 5: PLR_5429612AG ($5.71 in chips)
+Seat 6: PLR_6094742QD ($5.52 in chips)
+Table deposit $5 
+Table leave user
+PLR_1295177YE: posts small blind $0.02
+PLR_5429612AG: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ks 6c]
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+Table leave user
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $0.07 from pot
+Table leave user
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 3: Hero (button) showed
+Seat 4: PLR_1295177YE (small blind) showed
+Seat 5: PLR_5429612AG (big blind) won ($0.07)
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436384528: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:44:07
+Table '#11436030' 6-max Seat #1 is the button
+Seat 1: PLR_6845331HW ($4.82 in chips)
+Seat 2: PLR_4089491MF ($4.85 in chips)
+Seat 3: Hero ($9.83 in chips)
+Seat 4: PLR_1295177YE ($6.58 in chips)
+Seat 5: PLR_5429612AG ($4.20 in chips)
+Seat 6: PLR_6094742QD ($5.45 in chips)
+PLR_4089491MF: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7d Kc]
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: raises $0.17 to $0.17
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Hero: calls $0.12 
+*** FLOP *** [5c 9s 5h]
+Hero: checks
+PLR_6094742QD: bets $0.26 
+Hero: folds
+Uncalled bet ($0.26) returned to PLR_6094742QD
+PLR_6094742QD: doesn't show hand
+PLR_6094742QD collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [5c 9s 5h]
+Seat 1: PLR_6845331HW (button) showed
+Seat 2: PLR_4089491MF (small blind) showed
+Seat 3: Hero (big blind) showed
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD won ($0.35)
+
+
+
+PokerStars Hand #3436384860: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:44:56
+Table '#11436030' 6-max Seat #2 is the button
+Seat 1: PLR_6845331HW ($4.82 in chips)
+Seat 2: PLR_4089491MF ($4.83 in chips)
+Seat 3: Hero ($9.66 in chips)
+Seat 4: PLR_1295177YE ($6.58 in chips)
+Seat 5: PLR_5429612AG ($4.20 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+Hero: posts small blind $0.02
+PLR_1295177YE: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ts 2c]
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Hero: folds
+PLR_1295177YE: doesn't show hand
+PLR_1295177YE collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF (button) showed
+Seat 3: Hero (small blind) showed
+Seat 4: PLR_1295177YE (big blind) won ($0.07)
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436385001: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:45:21
+Table '#11436030' 6-max Seat #3 is the button
+Seat 1: PLR_6845331HW ($4.82 in chips)
+Seat 2: PLR_4089491MF ($4.83 in chips)
+Seat 3: Hero ($9.64 in chips)
+Seat 4: PLR_1295177YE ($6.60 in chips)
+Seat 5: PLR_5429612AG ($4.20 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_1295177YE: posts small blind $0.02
+PLR_5429612AG: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jc 4h]
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_4089491MF: raises $0.15 to $0.15
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: calls $0.10 
+*** FLOP *** [5c 3c Jh]
+PLR_5429612AG: checks
+PLR_4089491MF: bets $0.15 
+PLR_5429612AG: calls $0.15 
+*** TURN *** [5c 3c Jh] [Qd]
+PLR_5429612AG: checks
+PLR_4089491MF: bets $0.35 
+PLR_5429612AG: folds
+Uncalled bet ($0.35) returned to PLR_4089491MF
+PLR_4089491MF: doesn't show hand
+PLR_4089491MF collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03
+Board [5c 3c Jh Qd]
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF won ($0.59)
+Seat 3: Hero (button) showed
+Seat 4: PLR_1295177YE (small blind) showed
+Seat 5: PLR_5429612AG (big blind) showed
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436385458: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:46:31
+Table '#11436030' 6-max Seat #4 is the button
+Seat 1: PLR_6845331HW ($4.82 in chips)
+Seat 2: PLR_4089491MF ($5.12 in chips)
+Seat 3: Hero ($9.64 in chips)
+Seat 4: PLR_1295177YE ($6.58 in chips)
+Seat 5: PLR_5429612AG ($3.90 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_5429612AG: posts small blind $0.02
+PLR_6094742QD: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ac Qh]
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Hero: raises $0.17 to $0.17
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF showed
+Seat 3: Hero won ($0.12)
+Seat 4: PLR_1295177YE (button) showed
+Seat 5: PLR_5429612AG (small blind) showed
+Seat 6: PLR_6094742QD (big blind) showed
+
+
+
+PokerStars Hand #3436385715: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:47:09
+Table '#11436030' 6-max Seat #5 is the button
+Seat 1: PLR_6845331HW ($4.82 in chips)
+Seat 2: PLR_4089491MF ($5.12 in chips)
+Seat 3: Hero ($9.71 in chips)
+Seat 4: PLR_1295177YE ($6.58 in chips)
+Seat 5: PLR_5429612AG ($3.88 in chips)
+Seat 6: PLR_6094742QD ($5.58 in chips)
+PLR_6094742QD: posts small blind $0.02
+PLR_6845331HW: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5h 3s]
+PLR_4089491MF: folds
+Hero: folds
+PLR_1295177YE: raises $0.15 to $0.15
+PLR_5429612AG: calls $0.15 
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+*** FLOP *** [Qs 2s 6h]
+PLR_1295177YE: checks
+PLR_5429612AG: checks
+*** TURN *** [Qs 2s 6h] [Th]
+PLR_1295177YE: bets $0.20 
+PLR_5429612AG: calls $0.20 
+*** RIVER *** [Qs 2s 6h Th] [6d]
+PLR_1295177YE: bets $0.33 
+PLR_5429612AG: raises $3.20 to $3.53 and is all-in
+PLR_1295177YE: calls $3.20 
+*** SHOW DOWN ***
+PLR_5429612AG: shows [Td 9s] (two pair, Tens and Queens)
+PLR_1295177YE: shows [Qc Ks] (two pair, Queens and Kings)
+PLR_1295177YE collected $7.44 from pot
+*** SUMMARY ***
+Total pot $7.83 | Rake $0.39
+Board [Qs 2s 6h Th 6d]
+Seat 1: PLR_6845331HW (big blind) showed
+Seat 2: PLR_4089491MF showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE showed [Qc Ks] and won ($7.44) with two pair, Queens and Kings
+Seat 5: PLR_5429612AG (button) showed [Td 9s] and lost with two pair, Tens and Queens
+Seat 6: PLR_6094742QD (small blind) showed
+
+
+
+PokerStars Hand #3436386459: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:48:56
+Table '#11436030' 6-max Seat #6 is the button
+Seat 1: PLR_6845331HW ($4.77 in chips)
+Seat 2: PLR_4089491MF ($5.12 in chips)
+Seat 3: Hero ($9.71 in chips)
+Seat 4: PLR_1295177YE ($10.14 in chips)
+Seat 6: PLR_6094742QD ($5.56 in chips)
+PLR_6845331HW: posts small blind $0.02
+PLR_4089491MF: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ad 7h]
+Table leave user
+Hero: folds
+PLR_1295177YE: folds
+PLR_6094742QD: raises $0.15 to $0.15
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Uncalled bet ($0.10) returned to PLR_6094742QD
+PLR_6094742QD: doesn't show hand
+PLR_6094742QD collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW (small blind) showed
+Seat 2: PLR_4089491MF (big blind) showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE showed
+Seat 6: PLR_6094742QD (button) won ($0.12)
+
+
+
+PokerStars Hand #3436386659: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:49:25
+Table '#11436030' 6-max Seat #1 is the button
+Seat 1: PLR_6845331HW ($4.75 in chips)
+Seat 2: PLR_4089491MF ($5.07 in chips)
+Seat 3: Hero ($9.71 in chips)
+Seat 4: PLR_1295177YE ($10.14 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_4089491MF: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8h Ah]
+PLR_1295177YE: raises $0.15 to $0.15
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Seat sit down
+Hero: calls $0.10 
+*** FLOP *** [3h 3d 3s]
+Table deposit $1.50 
+Table leave user
+Hero: checks
+PLR_1295177YE: checks
+*** TURN *** [3h 3d 3s] [Js]
+Table leave user
+Hero: checks
+PLR_1295177YE: bets $0.20 
+Table leave user
+Hero: calls $0.20 
+*** RIVER *** [3h 3d 3s Js] [Td]
+Table leave user
+Hero: checks
+PLR_1295177YE: bets $0.35 
+Hero: calls $0.35 
+*** SHOW DOWN ***
+PLR_1295177YE: shows [Jc Qc] (a full house, Threes full of Jacks)
+Hero: shows [8h Ah] (Three of a kind)
+PLR_1295177YE collected $1.35 from pot
+*** SUMMARY ***
+Total pot $1.42 | Rake $0.07
+Board [3h 3d 3s Js Td]
+Seat 1: PLR_6845331HW (button) showed
+Seat 2: PLR_4089491MF (small blind) showed
+Seat 3: Hero (big blind) showed [8h Ah]
+Seat 4: PLR_1295177YE showed [Jc Qc] and won ($1.35) with a full house, Threes full of Jacks
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436387513: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:51:28
+Table '#11436030' 6-max Seat #2 is the button
+Seat 1: PLR_6845331HW ($4.75 in chips)
+Seat 2: PLR_4089491MF ($5.05 in chips)
+Seat 3: Hero ($9.01 in chips)
+Seat 4: PLR_1295177YE ($10.79 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+Hero: posts small blind $0.02
+PLR_1295177YE: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qh 3h]
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Hero: raises $0.13 to $0.15
+PLR_1295177YE: folds
+Uncalled bet ($0.10) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF (button) showed
+Seat 3: Hero (small blind) won ($0.1)
+Seat 4: PLR_1295177YE (big blind) showed
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436387759: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:52:05
+Table '#11436030' 6-max Seat #3 is the button
+Seat 1: PLR_6845331HW ($4.75 in chips)
+Seat 2: PLR_4089491MF ($5.05 in chips)
+Seat 3: Hero ($9.06 in chips)
+Seat 4: PLR_1295177YE ($10.74 in chips)
+Seat 5: PLR_5429612AG ($1.50 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_1295177YE: posts small blind $0.02
+PLR_5429612AG: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9s 2d]
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_4089491MF: raises $0.15 to $0.15
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+Uncalled bet ($0.10) returned to PLR_4089491MF
+PLR_4089491MF: doesn't show hand
+PLR_4089491MF collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF won ($0.12)
+Seat 3: Hero (button) showed
+Seat 4: PLR_1295177YE (small blind) showed
+Seat 5: PLR_5429612AG (big blind) showed
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436388005: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:52:38
+Table '#11436030' 6-max Seat #4 is the button
+Seat 1: PLR_6845331HW ($4.75 in chips)
+Seat 2: PLR_4089491MF ($5.12 in chips)
+Seat 3: Hero ($9.06 in chips)
+Seat 4: PLR_1295177YE ($10.72 in chips)
+Seat 5: PLR_5429612AG ($1.45 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_5429612AG: posts small blind $0.02
+PLR_6094742QD: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4s Qd]
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: doesn't show hand
+PLR_6094742QD collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE (button) showed
+Seat 5: PLR_5429612AG (small blind) showed
+Seat 6: PLR_6094742QD (big blind) won ($0.07)
+
+
+
+PokerStars Hand #3436388093: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:52:52
+Table '#11436030' 6-max Seat #5 is the button
+Seat 1: PLR_6845331HW ($4.75 in chips)
+Seat 2: PLR_4089491MF ($5.12 in chips)
+Seat 3: Hero ($9.06 in chips)
+Seat 4: PLR_1295177YE ($10.72 in chips)
+Seat 5: PLR_5429612AG ($1.43 in chips)
+Seat 6: PLR_6094742QD ($5.65 in chips)
+PLR_6094742QD: posts small blind $0.02
+PLR_6845331HW: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3h 5s]
+PLR_4089491MF: raises $0.15 to $0.15
+Hero: folds
+PLR_1295177YE: calls $0.15 
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+*** FLOP *** [Ts 5c Qh]
+PLR_4089491MF: bets $0.15 
+PLR_1295177YE: calls $0.15 
+*** TURN *** [Ts 5c Qh] [8d]
+PLR_4089491MF: bets $0.30 
+PLR_1295177YE: folds
+Uncalled bet ($0.30) returned to PLR_4089491MF
+PLR_4089491MF: doesn't show hand
+PLR_4089491MF collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03
+Board [Ts 5c Qh 8d]
+Seat 1: PLR_6845331HW (big blind) showed
+Seat 2: PLR_4089491MF won ($0.64)
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG (button) showed
+Seat 6: PLR_6094742QD (small blind) showed
+
+
+
+PokerStars Hand #3436388692: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:54:18
+Table '#11436030' 6-max Seat #6 is the button
+Seat 1: PLR_6845331HW ($4.70 in chips)
+Seat 2: PLR_4089491MF ($5.46 in chips)
+Seat 3: Hero ($9.06 in chips)
+Seat 4: PLR_1295177YE ($10.42 in chips)
+Seat 5: PLR_5429612AG ($1.43 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_6845331HW: posts small blind $0.02
+PLR_4089491MF: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2h Td]
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: calls $0.05 
+PLR_6094742QD: folds
+PLR_6845331HW: raises $0.13 to $0.15
+PLR_4089491MF: folds
+PLR_5429612AG: calls $0.10 
+*** FLOP *** [3h 7c 3s]
+PLR_6845331HW: bets $0.30 
+PLR_5429612AG: raises $0.98 to $1.28 and is all-in
+PLR_6845331HW: calls $0.98 
+*** TURN *** [3h 7c 3s] [9c]
+*** RIVER *** [3h 7c 3s 9c] [Th]
+*** SHOW DOWN ***
+PLR_6845331HW: shows [Ac 7h] (two pair, Sevens and Aces)
+PLR_5429612AG: shows [Kc As] (a pair of Threes)
+PLR_6845331HW collected $2.77 from pot
+*** SUMMARY ***
+Total pot $2.91 | Rake $0.14
+Board [3h 7c 3s 9c Th]
+Seat 1: PLR_6845331HW (small blind) showed [Ac 7h] and won ($2.77) with two pair, Threes and Tens
+Seat 2: PLR_4089491MF (big blind) showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG showed [Kc As] and lost with a pair of Threes
+Seat 6: PLR_6094742QD (button) showed
+
+
+
+PokerStars Hand #3436389080: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:55:12
+Table '#11436030' 6-max Seat #1 is the button
+Seat 1: PLR_6845331HW ($6.04 in chips)
+Seat 2: PLR_4089491MF ($5.41 in chips)
+Seat 3: Hero ($9.06 in chips)
+Seat 4: PLR_1295177YE ($10.42 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_4089491MF: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Th 2d]
+Table leave user
+PLR_1295177YE: raises $0.15 to $0.15
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+Seat sit down
+PLR_4089491MF: folds
+Hero: folds
+Uncalled bet ($0.10) returned to PLR_1295177YE
+PLR_1295177YE: doesn't show hand
+PLR_1295177YE collected $0.12 from pot
+Table deposit $1.50 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW (button) showed
+Seat 2: PLR_4089491MF (small blind) showed
+Seat 3: Hero (big blind) showed
+Seat 4: PLR_1295177YE won ($0.12)
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436389307: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:55:45
+Table '#11436030' 6-max Seat #2 is the button
+Seat 1: PLR_6845331HW ($6.04 in chips)
+Seat 2: PLR_4089491MF ($5.39 in chips)
+Seat 3: Hero ($9.01 in chips)
+Seat 4: PLR_1295177YE ($10.49 in chips)
+Seat 5: PLR_5429612AG ($1.50 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+Hero: posts small blind $0.02
+PLR_1295177YE: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jd 6c]
+PLR_5429612AG: Seat re-join
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Hero: folds
+PLR_1295177YE: doesn't show hand
+PLR_1295177YE collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF (button) showed
+Seat 3: Hero (small blind) showed
+Seat 4: PLR_1295177YE (big blind) won ($0.07)
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436389683: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:56:36
+Table '#11436030' 6-max Seat #3 is the button
+Seat 1: PLR_6845331HW ($6.04 in chips)
+Seat 2: PLR_4089491MF ($5.39 in chips)
+Seat 3: Hero ($8.99 in chips)
+Seat 4: PLR_1295177YE ($10.51 in chips)
+Seat 5: PLR_5429612AG ($3 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_1295177YE: posts small blind $0.02
+PLR_5429612AG: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9c Ad]
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Hero: raises $0.17 to $0.17
+PLR_1295177YE: folds
+PLR_5429612AG: calls $0.12 
+*** FLOP *** [2d 4h Kc]
+PLR_5429612AG: bets $0.16 
+Hero: calls $0.16 
+*** TURN *** [2d 4h Kc] [3h]
+PLR_5429612AG: bets $0.30 
+Hero: calls $0.30 
+*** RIVER *** [2d 4h Kc 3h] [2s]
+PLR_5429612AG: bets $0.19 
+Hero: folds
+Uncalled bet ($0.19) returned to PLR_5429612AG
+PLR_5429612AG: doesn't show hand
+PLR_5429612AG collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.06
+Board [2d 4h Kc 3h 2s]
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF showed
+Seat 3: Hero (button) showed
+Seat 4: PLR_1295177YE (small blind) showed
+Seat 5: PLR_5429612AG (big blind) won ($1.22)
+Seat 6: PLR_6094742QD showed
+
+
+
+PokerStars Hand #3436390344: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:58:06
+Table '#11436030' 6-max Seat #4 is the button
+Seat 1: PLR_6845331HW ($6.04 in chips)
+Seat 2: PLR_4089491MF ($5.39 in chips)
+Seat 3: Hero ($8.36 in chips)
+Seat 4: PLR_1295177YE ($10.49 in chips)
+Seat 5: PLR_5429612AG ($3.59 in chips)
+Seat 6: PLR_6094742QD ($5.63 in chips)
+PLR_5429612AG: posts small blind $0.02
+PLR_6094742QD: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5h 6s]
+PLR_6845331HW: folds
+PLR_4089491MF: raises $0.15 to $0.15
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+Uncalled bet ($0.10) returned to PLR_4089491MF
+PLR_4089491MF: doesn't show hand
+PLR_4089491MF collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF won ($0.12)
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE (button) showed
+Seat 5: PLR_5429612AG (small blind) showed
+Seat 6: PLR_6094742QD (big blind) showed
+
+
+
+PokerStars Hand #3436390619: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 19:58:44
+Table '#11436030' 6-max Seat #5 is the button
+Seat 1: PLR_6845331HW ($6.04 in chips)
+Seat 2: PLR_4089491MF ($5.46 in chips)
+Seat 3: Hero ($8.36 in chips)
+Seat 4: PLR_1295177YE ($10.49 in chips)
+Seat 5: PLR_5429612AG ($3.57 in chips)
+Seat 6: PLR_6094742QD ($5.58 in chips)
+PLR_6094742QD: posts small blind $0.02
+PLR_6845331HW: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8h Qh]
+PLR_4089491MF: folds
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: calls $0.05 
+PLR_6094742QD: calls $0.03 
+PLR_6845331HW: checks
+*** FLOP *** [Ts Th 4h]
+PLR_6094742QD: checks
+PLR_6845331HW: checks
+PLR_5429612AG: checks
+*** TURN *** [Ts Th 4h] [5h]
+PLR_6094742QD: bets $0.11 
+PLR_6845331HW: folds
+PLR_5429612AG: calls $0.11 
+*** RIVER *** [Ts Th 4h 5h] [Ks]
+PLR_6094742QD: bets $0.26 
+PLR_5429612AG: folds
+Uncalled bet ($0.26) returned to PLR_6094742QD
+PLR_6094742QD: doesn't show hand
+PLR_6094742QD collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01
+Board [Ts Th 4h 5h Ks]
+Seat 1: PLR_6845331HW (big blind) showed
+Seat 2: PLR_4089491MF showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG (button) showed
+Seat 6: PLR_6094742QD (small blind) won ($0.36)
+
+
+
+PokerStars Hand #3436391929: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 20:01:43
+Table '#11436030' 6-max Seat #4 is the button
+Seat 1: PLR_6845331HW ($5.97 in chips)
+Seat 2: PLR_4089491MF ($5.36 in chips)
+Seat 3: Hero ($8.36 in chips)
+Seat 4: PLR_1295177YE ($10.64 in chips)
+Seat 5: PLR_5429612AG ($3.38 in chips)
+Seat 6: PLR_6094742QD ($5.78 in chips)
+PLR_5429612AG: posts small blind $0.02
+PLR_6094742QD: posts big blind $0.05
+Hero: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Hero [9h 6d]
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+Hero: checks
+PLR_1295177YE: raises $0.15 to $0.15
+PLR_5429612AG: folds
+PLR_6094742QD: calls $0.10 
+Hero: folds
+*** FLOP *** [Td 2d 2s]
+PLR_6094742QD: checks
+PLR_1295177YE: checks
+*** TURN *** [Td 2d 2s] [4c]
+PLR_6094742QD: bets $0.28 
+PLR_1295177YE: calls $0.28 
+*** RIVER *** [Td 2d 2s 4c] [7h]
+PLR_6094742QD: checks
+PLR_1295177YE: checks
+*** SHOW DOWN ***
+PLR_6094742QD: shows [Js Qs] (a pair of Deuces)
+PLR_1295177YE: shows [Jd Ac] (a pair of Deuces)
+PLR_1295177YE collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04
+Board [Td 2d 2s 4c 7h]
+Seat 1: PLR_6845331HW showed
+Seat 2: PLR_4089491MF showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE (button) showed [Jd Ac] and won ($0.91) with a pair of Deuces
+Seat 5: PLR_5429612AG (small blind) showed
+Seat 6: PLR_6094742QD (big blind) showed [Js Qs] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #3436392542: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 20:03:09
+Table '#11436030' 6-max Seat #5 is the button
+Seat 1: PLR_6845331HW ($5.97 in chips)
+Seat 2: PLR_4089491MF ($5.36 in chips)
+Seat 3: Hero ($8.29 in chips)
+Seat 4: PLR_1295177YE ($11.12 in chips)
+Seat 5: PLR_5429612AG ($3.36 in chips)
+Seat 6: PLR_6094742QD ($5.35 in chips)
+PLR_6094742QD: posts small blind $0.02
+PLR_6845331HW: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8c 3c]
+PLR_4089491MF: raises $0.15 to $0.15
+Hero: folds
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: folds
+PLR_6845331HW: folds
+Uncalled bet ($0.10) returned to PLR_4089491MF
+PLR_4089491MF: doesn't show hand
+PLR_4089491MF collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: PLR_6845331HW (big blind) showed
+Seat 2: PLR_4089491MF won ($0.12)
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG (button) showed
+Seat 6: PLR_6094742QD (small blind) showed
+
+
+
+PokerStars Hand #3436392898: Hold'em No Limit ($0.02/$0.05) - 2017/03/13 20:03:59
+Table '#11436030' 6-max Seat #6 is the button
+Seat 1: PLR_6845331HW ($5.92 in chips)
+Seat 2: PLR_4089491MF ($5.43 in chips)
+Seat 3: Hero ($8.29 in chips)
+Seat 4: PLR_1295177YE ($11.12 in chips)
+Seat 5: PLR_5429612AG ($3.36 in chips)
+Seat 6: PLR_6094742QD ($5.33 in chips)
+PLR_6845331HW: posts small blind $0.02
+PLR_4089491MF: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6s 6h]
+Hero: raises $0.17 to $0.17
+PLR_1295177YE: folds
+PLR_5429612AG: folds
+PLR_6094742QD: calls $0.17 
+PLR_6845331HW: folds
+PLR_4089491MF: folds
+*** FLOP *** [Jc Kc Jh]
+Hero: checks
+PLR_6094742QD: checks
+*** TURN *** [Jc Kc Jh] [4d]
+Hero: checks
+PLR_6094742QD: bets $0.28 
+Hero: folds
+Uncalled bet ($0.28) returned to PLR_6094742QD
+PLR_6094742QD: doesn't show hand
+PLR_6094742QD collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.02
+Board [Jc Kc Jh 4d]
+Seat 1: PLR_6845331HW (small blind) showed
+Seat 2: PLR_4089491MF (big blind) showed
+Seat 3: Hero showed
+Seat 4: PLR_1295177YE showed
+Seat 5: PLR_5429612AG showed
+Seat 6: PLR_6094742QD (button) won ($0.39)
+
+
+
+

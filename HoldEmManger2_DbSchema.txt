@@ -1,0 +1,1415 @@
+
+postgres=# \connect HoldemManager2
+psql (8.4.22)
+WARNING: Console code page (437) differs from Windows code page (1252)
+         8-bit characters might not work correctly. See psql reference
+         page "Notes for Windows users" for details.
+You are now connected to database "HoldemManager2".
+HoldemManager2=# \dt
+                 List of relations
+ Schema |         Name          | Type  |  Owner
+--------+-----------------------+-------+----------
+ public | aliases               | table | postgres
+ public | bonuses               | table | postgres
+ public | compiledplayerresults | table | postgres
+ public | error_hands           | table | postgres
+ public | gametypes             | table | postgres
+ public | hand_markings         | table | postgres
+ public | hand_notes            | table | postgres
+ public | handhistories         | table | postgres
+ public | handhistories_sync    | table | postgres
+ public | handmarkcategories    | table | postgres
+ public | importedfiles         | table | postgres
+ public | importsummaries       | table | postgres
+ public | importsummarydetails  | table | postgres
+ public | note_categories       | table | postgres
+ public | notecaddy_data        | table | postgres
+ public | notecaddy_definitions | table | postgres
+ public | notecaddy_metrics     | table | postgres
+ public | notecaddy_scatter     | table | postgres
+ public | notecaddy_timing      | table | postgres
+ public | player_notes          | table | postgres
+ public | players               | table | postgres
+ public | pokerhands            | table | postgres
+ public | pokertables           | table | postgres
+ public | rakeback              | table | postgres
+ public | readsettings          | table | postgres
+ public | schemainfo            | table | postgres
+ public | settings              | table | postgres
+ public | sw_quiz_hand_ranges   | table | postgres
+ public | sw_quiz_hands         | table | postgres
+ public | sw_quiz_players       | table | postgres
+ public | sw_quizzes            | table | postgres
+ public | sync_batches          | table | postgres
+ public | sync_prefs            | table | postgres
+ public | tooltips              | table | postgres
+ public | tourneydata           | table | postgres
+ public | tourneysummaries      | table | postgres
+ public | uploadedtosnowie      | table | postgres
+(37 rows)
+
+
+        Table "public.aliases"
+     Column     |  Type   | Modifiers
+----------------+---------+-----------
+ aliasplayer_id | integer |
+ player_id      | integer |
+
+
+                                            Table "public.bonuses"
+       Column       |            Type             |                         Modifiers
+--------------------+-----------------------------+------------------------------------------------------------
+ bonus_id           | integer                     | not null default nextval('bonuses_bonus_id_seq'::regclass)
+ description        | character varying(255)      |
+ player_id          | integer                     | not null
+ bonusamountincents | integer                     | not null
+ bonustimestamp     | timestamp without time zone |
+ currencytype_id    | smallint                    | default 1
+Indexes:
+    "bonuses_pkey" PRIMARY KEY, btree (bonus_id)
+
+
+     Sequence "public.bonuses_bonus_id_seq"
+    Column     |  Type   |        Value
+---------------+---------+----------------------
+ sequence_name | name    | bonuses_bonus_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+Index "public.bonuses_pkey"
+  Column  |  Type
+----------+---------
+ bonus_id | integer
+primary key, btree, for table "public.bonuses"
+
+
+                                                   Table "public.compiledplayerresults"
+               Column               |   Type   |                                        Modifiers                       
+------------------------------------+----------+------------------------------------------------------------------------------------------
+ compiledplayerresults_id           | integer  | not null default nextval('compiledplayerresults_compiledplayerresults_id_seq'::regclass)
+ player_id                          | integer  | not null
+ playedyearandmonth                 | integer  | not null
+ numberofplayers                    | smallint | not null
+ gametype_id                        | smallint | not null
+ bbgroup_id                         | smallint | not null
+ totalhands                         | integer  | not null
+ totalamountwonincents              | integer  | not null
+ totalrakeincents                   | integer  | not null
+ totalbbswon                        | integer  | not null
+ vpiphands                          | integer  | not null
+ pfrhands                           | integer  | not null
+ couldcoldcall                      | integer  | not null
+ didcoldcall                        | integer  | not null
+ couldthreebet                      | integer  | not null
+ didthreebet                        | integer  | not null
+ couldsqueeze                       | integer  | not null
+ didsqueeze                         | integer  | not null
+ facingtwopreflopraisers            | integer  | not null
+ calledtwopreflopraisers            | integer  | not null
+ raisedtwopreflopraisers            | integer  | not null
+ smallblindstealattempted           | integer  | not null
+ smallblindstealdefended            | integer  | not null
+ smallblindstealreraised            | integer  | not null
+ bigblindstealattempted             | integer  | not null
+ bigblindstealdefended              | integer  | not null
+ bigblindstealreraised              | integer  | not null
+ sawnonsmallshowdown                | integer  | not null
+ wonnonsmallshowdown                | integer  | not null
+ sawlargeshowdown                   | integer  | not null
+ wonlargeshowdown                   | integer  | not null
+ sawnonsmallshowdownlimpedflop      | integer  | not null
+ wonnonsmallshowdownlimpedflop      | integer  | not null
+ sawlargeshowdownlimpedflop         | integer  | not null
+ wonlargeshowdownlimpedflop         | integer  | not null
+ wonhand                            | integer  | not null
+ wonhandwhensawflop                 | integer  | not null
+ wonhandwhensawturn                 | integer  | not null
+ wonhandwhensawriver                | integer  | not null
+ facedthreebetpreflop               | integer  | not null
+ foldedtothreebetpreflop            | integer  | not null
+ calledthreebetpreflop              | integer  | not null
+ raisedthreebetpreflop              | integer  | not null
+ facedfourbetpreflop                | integer  | not null
+ foldedtofourbetpreflop             | integer  | not null
+ calledfourbetpreflop               | integer  | not null
+ raisedfourbetpreflop               | integer  | not null
+ turnfoldippassonflopcb             | integer  | not null
+ turncallippassonflopcb             | integer  | not null
+ turnraiseippassonflopcb            | integer  | not null
+ riverfoldippassonturncb            | integer  | not null
+ rivercallippassonturncb            | integer  | not null
+ riverraiseippassonturncb           | integer  | not null
+ sawflop                            | integer  | not null
+ sawshowdown                        | integer  | not null
+ wonshowdown                        | integer  | not null
+ totalbets                          | integer  | not null
+ totalcalls                         | integer  | not null
+ flopcontinuationbetpossible        | integer  | not null
+ flopcontinuationbetmade            | integer  | not null
+ turncontinuationbetpossible        | integer  | not null
+ turncontinuationbetmade            | integer  | not null
+ rivercontinuationbetpossible       | integer  | not null
+ rivercontinuationbetmade           | integer  | not null
+ facingflopcontinuationbet          | integer  | not null
+ foldedtoflopcontinuationbet        | integer  | not null
+ calledflopcontinuationbet          | integer  | not null
+ raisedflopcontinuationbet          | integer  | not null
+ facingturncontinuationbet          | integer  | not null
+ foldedtoturncontinuationbet        | integer  | not null
+ calledturncontinuationbet          | integer  | not null
+ raisedturncontinuationbet          | integer  | not null
+ facingrivercontinuationbet         | integer  | not null
+ foldedtorivercontinuationbet       | integer  | not null
+ calledrivercontinuationbet         | integer  | not null
+ raisedrivercontinuationbet         | integer  | not null
+ totalpostflopstreetsseen           | integer  | not null
+ totalaggressivepostflopstreetsseen | integer  | not null
+Indexes:
+    "compiledplayerresults_pkey" PRIMARY KEY, btree (compiledplayerresults_id)
+    "compiledplayerresults_idx1" btree (player_id, playedyearandmonth, numberofplayers, gametype_id, bbgroup_id)
+    "compiledplayerresults_idx2" btree (playedyearandmonth, numberofplayers, gametype_id, bbgroup_id)
+
+
+     Sequence "public.compiledplayerresults_compiledplayerresults_id_seq"
+    Column     |  Type   |                       Value
+---------------+---------+----------------------------------------------------
+ sequence_name | name    | compiledplayerresults_compiledplayerresults_id_seq
+ last_value    | bigint  | 690
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 22
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+Index "public.compiledplayerresults_idx1"
+       Column       |   Type
+--------------------+----------
+ player_id          | integer
+ playedyearandmonth | integer
+ numberofplayers    | smallint
+ gametype_id        | smallint
+ bbgroup_id         | smallint
+btree, for table "public.compiledplayerresults"
+
+
+Index "public.compiledplayerresults_idx2"
+       Column       |   Type
+--------------------+----------
+ playedyearandmonth | integer
+ numberofplayers    | smallint
+ gametype_id        | smallint
+ bbgroup_id         | smallint
+btree, for table "public.compiledplayerresults"
+
+
+Index "public.compiledplayerresults_pkey"
+          Column          |  Type
+--------------------------+---------
+ compiledplayerresults_id | integer
+primary key, btree, for table "public.compiledplayerresults"
+
+
+                                    Table "public.error_hands"
+     Column     |   Type   |                              Modifiers
+----------------+----------+----------------------------------------------------------------------
+ error_hands_id | integer  | not null default nextval('error_hands_error_hands_id_seq'::regclass)
+ gamenumber     | bigint   | not null
+ pokersite_id   | smallint | not null
+ handhistory    | text     | not null
+ filename       | text     |
+Indexes:
+    "error_hands_id_pkey" PRIMARY KEY, btree (error_hands_id)
+    "error_hands_idx1" btree (gamenumber, pokersite_id)
+
+
+     Sequence "public.error_hands_error_hands_id_seq"
+    Column     |  Type   |             Value
+---------------+---------+--------------------------------
+ sequence_name | name    | error_hands_error_hands_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+Index "public.error_hands_id_pkey"
+     Column     |  Type
+----------------+---------
+ error_hands_id | integer
+primary key, btree, for table "public.error_hands"
+
+
+Index "public.error_hands_idx1"
+    Column    |   Type
+--------------+----------
+ gamenumber   | bigint
+ pokersite_id | smallint
+btree, for table "public.error_hands"
+
+
+Index "public.gametype_id_pkey"
+   Column    |  Type
+-------------+---------
+ gametype_id | integer
+primary key, btree, for table "public.gametypes"
+
+
+                                    Table "public.gametypes"
+      Column       |   Type   |                            Modifiers
+-------------------+----------+-----------------------------------------------------------------
+ gametype_id       | integer  | not null default nextval('gametypes_gametype_id_seq'::regclass)
+ bigblindincents   | integer  | not null
+ smallblindincents | integer  | not null
+ anteincents       | integer  | not null
+ istourney         | boolean  | not null
+ currencytype_id   | smallint | not null
+ pokergametype_id  | smallint | not null
+ tablesize         | smallint | not null
+Indexes:
+    "gametype_id_pkey" PRIMARY KEY, btree (gametype_id)
+
+
+     Sequence "public.gametypes_gametype_id_seq"
+    Column     |  Type   |           Value
+---------------+---------+---------------------------
+ sequence_name | name    | gametypes_gametype_id_seq
+ last_value    | bigint  | 5
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 29
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+   Table "public.hand_markings"
+   Column   |   Type   | Modifiers
+------------+----------+-----------
+ marking_id | integer  |
+ gamenumber | bigint   |
+ site_id    | smallint |
+Foreign-key constraints:
+    "hand_markings_marking_id_fkey" FOREIGN KEY (marking_id) REFERENCES handmarkcategories(category_id)
+
+
+                                  Table "public.hand_notes"
+    Column     |   Type   |                             Modifiers
+---------------+----------+-------------------------------------------------------------------
+ hand_note_id  | integer  | not null default nextval('hand_notes_hand_note_id_seq'::regclass)
+ category_id   | integer  |
+ icon_id       | integer  |
+ note          | text     |
+ display_order | integer  |
+ gamenumber    | bigint   | not null
+ pokersite_id  | smallint | not null
+Indexes:
+    "hand_notes_pkey" PRIMARY KEY, btree (hand_note_id)
+
+
+     Sequence "public.hand_notes_hand_note_id_seq"
+    Column     |  Type   |            Value
+---------------+---------+-----------------------------
+ sequence_name | name    | hand_notes_hand_note_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+Index "public.hand_notes_pkey"
+    Column    |  Type
+--------------+---------
+ hand_note_id | integer
+primary key, btree, for table "public.hand_notes"
+
+
+                                             Table "public.handhistories"
+     Column     |            Type             |                               Modifiers
+----------------+-----------------------------+------------------------------------------------------------------------
+ handhistory_id | integer                     | not null default nextval('handhistories_handhistory_id_seq'::regclass)
+ gamenumber     | bigint                      | not null
+ pokersite_id   | smallint                    | not null
+ handhistory    | text                        | not null
+ filename       | text                        |
+ handtimestamp  | timestamp without time zone |
+ gametype_id    | integer                     |
+ tourneynumber  | character varying(20)       |
+Indexes:
+    "handhistories_pkey" PRIMARY KEY, btree (handhistory_id)
+    "handhistories_idx1" btree (gamenumber, pokersite_id)
+    "handhistories_idx2" btree (handtimestamp, gametype_id)
+    "handhistories_idx3" btree (gametype_id, handtimestamp)
+Referenced by:
+    TABLE "uploadedtosnowie" CONSTRAINT "handhistory_id_fkey" FOREIGN KEY (handhistory_id) REFERENCES handhistories(handhistory_id) ON UPDATE CASCADE ON DELETE CASCADE
+    TABLE "handhistories_sync" CONSTRAINT "hhfk" FOREIGN KEY (handhistories_id) REFERENCES handhistories(handhistory_id)
+
+     Sequence "public.handhistories_handhistory_id_seq"
+    Column     |  Type   |              Value
+---------------+---------+----------------------------------
+ sequence_name | name    | handhistories_handhistory_id_seq
+ last_value    | bigint  | 1440
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 30
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+Index "public.handhistories_idx1"
+    Column    |   Type
+--------------+----------
+ gamenumber   | bigint
+ pokersite_id | smallint
+btree, for table "public.handhistories"
+
+
+      Index "public.handhistories_idx2"
+    Column     |            Type
+---------------+-----------------------------
+ handtimestamp | timestamp without time zone
+ gametype_id   | integer
+btree, for table "public.handhistories"
+
+
+      Index "public.handhistories_idx3"
+    Column     |            Type
+---------------+-----------------------------
+ gametype_id   | integer
+ handtimestamp | timestamp without time zone
+btree, for table "public.handhistories"
+
+
+Index "public.handhistories_pkey"
+     Column     |  Type
+----------------+---------
+ handhistory_id | integer
+primary key, btree, for table "public.handhistories"
+
+
+                                          Table "public.handhistories_sync"
+        Column         |  Type   |                                     Modifiers
+-----------------------+---------+------------------------------------------------------------------------------------
+ handhistories_sync_id | integer | not null default nextval('handhistories_sync_handhistories_sync_id_seq'::regclass)
+ handhistories_id      | integer | not null
+ islocal               | boolean | not null
+ sync_batch_id         | integer | not null
+Indexes:
+    "handhistories_sync_pkey" PRIMARY KEY, btree (handhistories_sync_id)
+    "handhistories_sync_idx1" btree (handhistories_id, sync_batch_id)
+Foreign-key constraints:
+    "hhfk" FOREIGN KEY (handhistories_id) REFERENCES handhistories(handhistory_id)
+
+
+     Sequence "public.handhistories_sync_handhistories_sync_id_seq"
+    Column     |  Type   |                    Value
+---------------+---------+----------------------------------------------
+ sequence_name | name    | handhistories_sync_handhistories_sync_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+Index "public.handhistories_sync_idx1"
+      Column      |  Type
+------------------+---------
+ handhistories_id | integer
+ sync_batch_id    | integer
+btree, for table "public.handhistories_sync"
+
+
+Index "public.handhistories_sync_pkey"
+        Column         |  Type
+-----------------------+---------
+ handhistories_sync_id | integer
+primary key, btree, for table "public.handhistories_sync"
+
+
+                                Table "public.handmarkcategories"
+   Column    |  Type   |                                Modifiers
+-------------+---------+--------------------------------------------------------------------------
+ category_id | integer | not null default nextval('handmarkcategories_category_id_seq'::regclass)
+ description | text    |
+ color_index | integer | default (-1)
+Indexes:
+    "handmarkcategories_pkey" PRIMARY KEY, btree (category_id)
+Referenced by:
+    TABLE "hand_markings" CONSTRAINT "hand_markings_marking_id_fkey" FOREIGN KEY (marking_id) REFERENCES handmarkcategories(category_id)
+
+
+     Sequence "public.handmarkcategories_category_id_seq"
+    Column     |  Type   |               Value
+---------------+---------+------------------------------------
+ sequence_name | name    | handmarkcategories_category_id_seq
+ last_value    | bigint  | 4
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 29
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+Index "public.handmarkcategories_pkey"
+   Column    |  Type
+-------------+---------
+ category_id | integer
+primary key, btree, for table "public.handmarkcategories"
+
+
+                                                  Table "public.importedfiles"
+         Column         |            Type             |                                Modifiers                        
+------------------------+-----------------------------+-------------------------------------------------------------------------
+ importedfile_id        | integer                     | not null default nextval('importedfiles_importedfile_id_seq'::regclass)
+ filename               | text                        | not null
+ lastmodifieddate       | timestamp without time zone | not null
+ filesize               | integer                     |
+ lastimportedhandnumber | bigint                      |
+Indexes:
+    "importedfiles_pkey" PRIMARY KEY, btree (importedfile_id)
+    "importedfiles_idx1" btree (filename)
+
+
+Index "public.importedfiles_idx1"
+  Column  | Type
+----------+------
+ filename | text
+btree, for table "public.importedfiles"
+
+
+     Sequence "public.importedfiles_importedfile_id_seq"
+    Column     |  Type   |               Value
+---------------+---------+-----------------------------------
+ sequence_name | name    | importedfiles_importedfile_id_seq
+ last_value    | bigint  | 18
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 31
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+Index "public.importedfiles_pkey"
+     Column      |  Type
+-----------------+---------
+ importedfile_id | integer
+primary key, btree, for table "public.importedfiles"
+
+
+                                                 Table "public.importsummaries"
+       Column       |            Type             |                                  Modifiers                          
+--------------------+-----------------------------+------------------------------------------------------------------------------
+ importsummaries_id | integer                     | not null default nextval('importsummaries_importsummaries_id_seq'::regclass)
+ timestamp          | timestamp without time zone | not null
+ source             | smallint                    | not null
+ handsprocessed     | integer                     | not null
+ filesprocessed     | integer                     | not null
+ handsper100seconds | integer                     | not null
+Indexes:
+    "importsummaries_pkey" PRIMARY KEY, btree (importsummaries_id)
+    "importsummaries_idx1" btree ("timestamp", source)
+
+
+   Index "public.importsummaries_idx1"
+  Column   |            Type
+-----------+-----------------------------
+ timestamp | timestamp without time zone
+ source    | smallint
+btree, for table "public.importsummaries"
+
+
+     Sequence "public.importsummaries_importsummaries_id_seq"
+    Column     |  Type   |                 Value
+---------------+---------+----------------------------------------
+ sequence_name | name    | importsummaries_importsummaries_id_seq
+ last_value    | bigint  | 6
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 32
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+Index "public.importsummaries_pkey"
+       Column       |  Type
+--------------------+---------
+ importsummaries_id | integer
+primary key, btree, for table "public.importsummaries"
+
+
+                                             Table "public.importsummarydetails"
+         Column          |   Type   |                                       Modifiers                                   
+-------------------------+----------+----------------------------------------------------------------------------------------
+ importsummarydetails_id | integer  | not null default nextval('importsummarydetails_importsummarydetails_id_seq'::regclass)
+ importsummaries_id      | integer  | not null
+ errortype               | smallint | not null
+ filename                | text     |
+ handhistory             | text     |
+Indexes:
+    "importsummarydetails_pkey" PRIMARY KEY, btree (importsummarydetails_id)
+
+
+     Sequence "public.importsummarydetails_importsummarydetails_id_seq"
+    Column     |  Type   |                      Value
+---------------+---------+--------------------------------------------------
+ sequence_name | name    | importsummarydetails_importsummarydetails_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+Index "public.importsummarydetails_pkey"
+         Column          |  Type
+-------------------------+---------
+ importsummarydetails_id | integer
+primary key, btree, for table "public.importsummarydetails"
+
+
+ Index "public.ncd"
+  Column   |  Type
+-----------+---------
+ player_id | integer
+primary key, btree, for table "public.notecaddy_data"
+
+
+ Index "public.ncs"
+  Column   |  Type
+-----------+---------
+ player_id | integer
+primary key, btree, for table "public.notecaddy_scatter"
+
+
+                                  Table "public.note_categories"
+     Column      |  Type   |                               Modifiers
+-----------------+---------+-----------------------------------------------------------------------
+ category_id     | integer | not null default nextval('note_categories_category_id_seq'::regclass)
+ description     | text    | not null
+ use_for_players | boolean | not null
+ use_for_hands   | boolean | not null
+ display_order   | integer | not null
+Indexes:
+    "note_categories_pkey" PRIMARY KEY, btree (category_id)
+Referenced by:
+    TABLE "player_notes" CONSTRAINT "player_notes_category_id_fkey" FOREIGN KEY (category_id) REFERENCES note_categories(category_id)
+
+
+     Sequence "public.note_categories_category_id_seq"
+    Column     |  Type   |              Value
+---------------+---------+---------------------------------
+ sequence_name | name    | note_categories_category_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+Index "public.note_categories_pkey"
+   Column    |  Type
+-------------+---------
+ category_id | integer
+primary key, btree, for table "public.note_categories"
+
+
+         Sequence "public.note_id_seq"
+    Column     |  Type   |        Value
+---------------+---------+---------------------
+ sequence_name | name    | note_id_seq
+ last_value    | bigint  | 999999
+ start_value   | bigint  | 999999
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+  Table "public.notecaddy_data"
+  Column   |  Type   | Modifiers
+-----------+---------+-----------
+ user_id   | integer |
+ player_id | integer | not null
+ data      | text    |
+Indexes:
+    "ncd" PRIMARY KEY, btree (player_id)
+
+
+ Table "public.notecaddy_definitions"
+    Column     |   Type   | Modifiers
+---------------+----------+-----------
+ definition_id | uuid     | not null
+ note_id       | smallint |
+Indexes:
+    "notecaddy_definitions_pkey" PRIMARY KEY, btree (definition_id)
+
+
+Index "public.notecaddy_definitions_pkey"
+    Column     | Type
+---------------+------
+ definition_id | uuid
+primary key, btree, for table "public.notecaddy_definitions"
+
+
+Table "public.notecaddy_metrics"
+ Column | Type | Modifiers
+--------+------+-----------
+ data   | text |
+
+
+Table "public.notecaddy_scatter"
+  Column   |  Type   | Modifiers
+-----------+---------+-----------
+ player_id | integer | not null
+ data      | text    |
+Indexes:
+    "ncs" PRIMARY KEY, btree (player_id)
+
+
+  Table "public.notecaddy_timing"
+  Column   |    Type    | Modifiers
+-----------+------------+-----------
+ playerid  | integer    | not null
+ handid    | integer    | not null
+ timings   | smallint[] |
+ strengths | smallint[] |
+ actions   | smallint[] |
+ streets   | smallint[] |
+Indexes:
+    "notecaddy_timing_pkey" PRIMARY KEY, btree (playerid, handid)
+
+
+Index "public.notecaddy_timing_pkey"
+  Column  |  Type
+----------+---------
+ playerid | integer
+ handid   | integer
+primary key, btree, for table "public.notecaddy_timing"
+
+
+                                             Table "public.player_notes"
+     Column     |            Type             |                               Modifiers
+----------------+-----------------------------+-----------------------------------------------------------------------
+ player_note_id | integer                     | not null default nextval('player_notes_player_note_id_seq'::regclass)
+ player_id      | integer                     |
+ category_id    | integer                     |
+ icon_id        | integer                     |
+ note           | text                        |
+ display_order  | integer                     |
+ date_created   | timestamp without time zone |
+ gamenumber     | bigint                      |
+ pokersite_id   | smallint                    |
+Indexes:
+    "player_notes_pkey" PRIMARY KEY, btree (player_note_id)
+Foreign-key constraints:
+    "player_notes_category_id_fkey" FOREIGN KEY (category_id) REFERENCES note_categories(category_id)
+    "player_notes_player_id_fkey" FOREIGN KEY (player_id) REFERENCES players(player_id)
+
+
+Index "public.player_notes_pkey"
+     Column     |  Type
+----------------+---------
+ player_note_id | integer
+primary key, btree, for table "public.player_notes"
+
+
+     Sequence "public.player_notes_player_note_id_seq"
+    Column     |  Type   |              Value
+---------------+---------+---------------------------------
+ sequence_name | name    | player_notes_player_note_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+                                   Table "public.players"
+       Column       |   Type   |                          Modifiers
+--------------------+----------+-------------------------------------------------------------
+ player_id          | integer  | not null default nextval('players_player_id_seq'::regclass)
+ playername         | text     | not null
+ pokersite_id       | smallint | not null
+ cashhands          | integer  | not null
+ tourneyhands       | integer  | not null
+ optimizationstatus | smallint | not null
+ icon               | smallint | default (-1)
+Indexes:
+    "players_pkey" PRIMARY KEY, btree (player_id)
+    "players_idx1" btree (playername, pokersite_id)
+Referenced by:
+    TABLE "player_notes" CONSTRAINT "player_notes_player_id_fkey" FOREIGN KEY (player_id) REFERENCES players(player_id)
+
+
+Index "public.players_idx1"
+    Column    |   Type
+--------------+----------
+ playername   | text
+ pokersite_id | smallint
+btree, for table "public.players"
+
+
+Index "public.players_pkey"
+  Column   |  Type
+-----------+---------
+ player_id | integer
+primary key, btree, for table "public.players"
+
+
+     Sequence "public.players_player_id_seq"
+    Column     |  Type   |         Value
+---------------+---------+-----------------------
+ sequence_name | name    | players_player_id_seq
+ last_value    | bigint  | 216
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 24
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+Index "public.pokerhand_idx1"
+   Column   |  Type
+------------+--------
+ gamenumber | bigint
+btree, for table "public.pokerhands"
+
+
+                                  Table "public.pokerhands"
+    Column    |   Type   |                             Modifiers
+--------------+----------+-------------------------------------------------------------------
+ pokerhand_id | integer  | not null default nextval('pokerhands_pokerhand_id_seq'::regclass)
+ gamenumber   | bigint   | not null
+ pokersite_id | smallint | not null
+Indexes:
+    "pokerhands_pkey" PRIMARY KEY, btree (pokerhand_id)
+    "pokerhand_idx1" btree (gamenumber)
+
+
+Index "public.pokerhands_pkey"
+    Column    |  Type
+--------------+---------
+ pokerhand_id | integer
+primary key, btree, for table "public.pokerhands"
+
+
+     Sequence "public.pokerhands_pokerhand_id_seq"
+    Column     |  Type   |            Value
+---------------+---------+-----------------------------
+ sequence_name | name    | pokerhands_pokerhand_id_seq
+ last_value    | bigint  | 1440
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 30
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+Index "public.pokertable_id_pkey"
+    Column     |  Type
+---------------+---------
+ pokertable_id | integer
+primary key, btree, for table "public.pokertables"
+
+
+                                          Table "public.pokertables"
+    Column     |          Type          |                              Modifiers
+---------------+------------------------+---------------------------------------------------------------------
+ pokertable_id | integer                | not null default nextval('pokertables_pokertable_id_seq'::regclass)
+ tablename     | character varying(120) | not null
+Indexes:
+    "pokertable_id_pkey" PRIMARY KEY, btree (pokertable_id)
+
+
+     Sequence "public.pokertables_pokertable_id_seq"
+    Column     |  Type   |             Value
+---------------+---------+-------------------------------
+ sequence_name | name    | pokertables_pokertable_id_seq
+ last_value    | bigint  | 23
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 29
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+                                                Table "public.rakeback"
+         Column          |            Type             |                           Modifiers                            -------------------------+-----------------------------+---------------------------------------------------------------- rakeback_id             | integer                     | not null default nextval('rakeback_rakeback_id_seq'::regclass)
+ description             | character varying(255)      |
+ player_id               | integer                     | not null
+ rakeback_pct            | double precision            | not null
+ rakeback_starttimestamp | timestamp without time zone |
+ rakeback_endtimestamp   | timestamp without time zone |
+Indexes:
+    "rakeback_pkey" PRIMARY KEY, btree (rakeback_id)
+
+
+Index "public.rakeback_pkey"
+   Column    |  Type
+-------------+---------
+ rakeback_id | integer
+primary key, btree, for table "public.rakeback"
+
+
+     Sequence "public.rakeback_rakeback_id_seq"
+    Column     |  Type   |          Value
+---------------+---------+--------------------------
+ sequence_name | name    | rakeback_rakeback_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+        Table "public.readsettings"
+       Column        |  Type   | Modifiers
+---------------------+---------+-----------
+ lastid              | bigint  |
+ lasttournament      | bigint  |
+ databaseversion     | text    |
+ lastomahacash       | bigint  |
+ lastomahatournament | bigint  |
+ lastnoteid          | integer |
+
+
+  Table "public.schemainfo"
+ Column  |  Type  | Modifiers
+---------+--------+-----------
+ version | bigint | not null
+Indexes:
+    "schemainfo_pkey" PRIMARY KEY, btree (version)
+
+
+Index "public.schemainfo_pkey"
+ Column  |  Type
+---------+--------
+ version | bigint
+primary key, btree, for table "public.schemainfo"
+
+
+           Table "public.settings"
+ Column |          Type          | Modifiers
+--------+------------------------+-----------
+ key    | character varying(255) | not null
+ value  | character varying(255) |
+Indexes:
+    "settings_pkey" PRIMARY KEY, btree (key)
+
+
+  Index "public.settings_pkey"
+ Column |          Type
+--------+------------------------
+ key    | character varying(255)
+primary key, btree, for table "public.settings"
+
+
+                                       Table "public.sw_quiz_hand_ranges"
+       Column       |  Type   |                                    Modifiers
+--------------------+---------+----------------------------------------------------------------------------------
+ quiz_hand_range_id | integer | not null default nextval('sw_quiz_hand_ranges_quiz_hand_range_id_seq'::regclass)
+ quiz_hand_id       | integer | not null
+ path               | text    |
+ handrange          | text    |
+Indexes:
+    "sw_quiz_hand_ranges_pkey" PRIMARY KEY, btree (quiz_hand_range_id)
+    "sw_quiz_hand_ranges_idx1" btree (quiz_hand_id)
+
+
+Index "public.sw_quiz_hand_ranges_idx1"
+    Column    |  Type
+--------------+---------
+ quiz_hand_id | integer
+btree, for table "public.sw_quiz_hand_ranges"
+
+
+Index "public.sw_quiz_hand_ranges_pkey"
+       Column       |  Type
+--------------------+---------
+ quiz_hand_range_id | integer
+primary key, btree, for table "public.sw_quiz_hand_ranges"
+
+
+     Sequence "public.sw_quiz_hand_ranges_quiz_hand_range_id_seq"
+    Column     |  Type   |                   Value
+---------------+---------+--------------------------------------------
+ sequence_name | name    | sw_quiz_hand_ranges_quiz_hand_range_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+                                                Table "public.sw_quiz_hands"
+         Column         |            Type             |                              Modifiers                          
+------------------------+-----------------------------+----------------------------------------------------------------------
+ quiz_hand_id           | integer                     | not null default nextval('sw_quiz_hands_quiz_hand_id_seq'::regclass)
+ quiz_id                | integer                     | not null
+ timestamp              | timestamp without time zone | not null
+ handhistory            | text                        |
+ correctherohandrank    | smallint                    | not null
+ useranswerherohandrank | smallint                    | not null
+ score                  | smallint                    | not null
+ handnumber             | integer                     |
+ playercount            | integer                     |
+ blinds                 | character varying(255)      |
+ heroposition           | character varying(255)      |
+ previousaction         | character varying(255)      |
+Indexes:
+    "sw_quiz_hands_pkey" PRIMARY KEY, btree (quiz_hand_id)
+    "sw_quiz_hands_idx1" btree (quiz_id)
+
+
+Index "public.sw_quiz_hands_idx1"
+ Column  |  Type
+---------+---------
+ quiz_id | integer
+btree, for table "public.sw_quiz_hands"
+
+
+Index "public.sw_quiz_hands_pkey"
+    Column    |  Type
+--------------+---------
+ quiz_hand_id | integer
+primary key, btree, for table "public.sw_quiz_hands"
+
+
+     Sequence "public.sw_quiz_hands_quiz_hand_id_seq"
+    Column     |  Type   |             Value
+---------------+---------+--------------------------------
+ sequence_name | name    | sw_quiz_hands_quiz_hand_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+Index "public.sw_quiz_pkey"
+ Column  |  Type
+---------+---------
+ quiz_id | integer
+primary key, btree, for table "public.sw_quizzes"
+
+
+                                    Table "public.sw_quiz_players"
+     Column     |   Type   |                                Modifiers
+----------------+----------+--------------------------------------------------------------------------
+ quiz_player_id | integer  | not null default nextval('sw_quiz_players_quiz_player_id_seq'::regclass)
+ quiz_hand_id   | integer  | not null
+ name           | text     |
+ seat           | smallint | not null
+ stack          | smallint | not null
+ actiontype     | smallint | not null
+ actionamount   | smallint | not null
+ opponentmodel  | text     | not null
+Indexes:
+    "sw_quiz_players_pkey" PRIMARY KEY, btree (quiz_player_id)
+    "sw_quiz_players_idx1" btree (quiz_hand_id)
+
+
+Index "public.sw_quiz_players_idx1"
+    Column    |  Type
+--------------+---------
+ quiz_hand_id | integer
+btree, for table "public.sw_quiz_players"
+
+
+Index "public.sw_quiz_players_pkey"
+     Column     |  Type
+----------------+---------
+ quiz_player_id | integer
+primary key, btree, for table "public.sw_quiz_players"
+
+
+     Sequence "public.sw_quiz_players_quiz_player_id_seq"
+    Column     |  Type   |               Value
+---------------+---------+------------------------------------
+ sequence_name | name    | sw_quiz_players_quiz_player_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+                                                 Table "public.sw_quizzes"
+            Column             |            Type             |                          Modifiers                       
+-------------------------------+-----------------------------+--------------------------------------------------------------
+ quiz_id                       | integer                     | not null default nextval('sw_quizzes_quiz_id_seq'::regclass)
+ timestamp                     | timestamp without time zone | not null
+ pokersite_id                  | smallint                    | not null
+ tournamenttagname             | text                        | not null
+ activetablecount              | smallint                    | not null
+ stackroundoff                 | smallint                    | not null
+ minimumplayercount            | smallint                    | not null
+ maximumplayercount            | smallint                    | not null
+ minimumblindlevel             | smallint                    | not null
+ maximumblindlevel             | smallint                    | not null
+ heroposition                  | smallint                    | not null
+ heroaction                    | smallint                    | not null
+ minimumherostackinbigblinds   | smallint                    | not null
+ maximumherostackinbigblinds   | smallint                    | not null
+ defaultopponentmodel          | text                        | not null
+ opponentreviousactionposition | smallint                    | not null
+ opponentpreviousaction        | smallint                    | not null
+Indexes:
+    "sw_quiz_pkey" PRIMARY KEY, btree (quiz_id)
+    "sw_quizzes_idx1" btree ("timestamp")
+
+
+     Index "public.sw_quizzes_idx1"
+  Column   |            Type
+-----------+-----------------------------
+ timestamp | timestamp without time zone
+btree, for table "public.sw_quizzes"
+
+
+     Sequence "public.sw_quizzes_quiz_id_seq"
+    Column     |  Type   |         Value
+---------------+---------+------------------------
+ sequence_name | name    | sw_quizzes_quiz_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+                                            Table "public.sync_batches"
+      Column      |         Type          |                               Modifiers
+------------------+-----------------------+------------------------------------------------------------------------
+ sync_batches_id  | integer               | not null default nextval('sync_batches_sync_batches_id_seq'::regclass)
+ datatype         | character varying(16) | not null
+ site             | character varying(32) | not null
+ remote_batch_num | integer               | not null
+Indexes:
+    "sync_batches_pkey" PRIMARY KEY, btree (sync_batches_id)
+    "sync_batches_idx1" btree (datatype, site, remote_batch_num)
+
+
+     Index "public.sync_batches_idx1"
+      Column      |         Type
+------------------+-----------------------
+ datatype         | character varying(16)
+ site             | character varying(32)
+ remote_batch_num | integer
+btree, for table "public.sync_batches"
+
+
+Index "public.sync_batches_pkey"
+     Column      |  Type
+-----------------+---------
+ sync_batches_id | integer
+primary key, btree, for table "public.sync_batches"
+
+
+     Sequence "public.sync_batches_sync_batches_id_seq"
+    Column     |  Type   |              Value
+---------------+---------+----------------------------------
+ sequence_name | name    | sync_batches_sync_batches_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+                                            Table "public.sync_prefs"
+    Column     |            Type             |                             Modifiers
+---------------+-----------------------------+--------------------------------------------------------------------
+ sync_prefs_id | integer                     | not null default nextval('sync_prefs_sync_prefs_id_seq'::regclass)
+ name          | character varying(32)       | not null
+ host          | character varying(32)       |
+ db            | character varying(128)      |
+ lastsyncdate  | timestamp without time zone |
+Indexes:
+    "sync_prefs_id_pkey" PRIMARY KEY, btree (sync_prefs_id)
+
+
+Index "public.sync_prefs_id_pkey"
+    Column     |  Type
+---------------+---------
+ sync_prefs_id | integer
+primary key, btree, for table "public.sync_prefs"
+
+
+     Sequence "public.sync_prefs_sync_prefs_id_seq"
+    Column     |  Type   |            Value
+---------------+---------+------------------------------
+ sequence_name | name    | sync_prefs_sync_prefs_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 32
+ is_cycled     | boolean | f
+ is_called     | boolean | t
+
+
+            Table "public.tooltips"
+  Column   |          Type          | Modifiers
+-----------+------------------------+-----------
+ tooltipid | integer                | not null
+ title     | character varying(256) |
+ link      | character varying(256) |
+ teaser    | character varying(512) |
+ category  | character varying(64)  |
+Indexes:
+    "tooltips_pkey" PRIMARY KEY, btree (tooltipid)
+    "tooltips_idx1" btree (category)
+
+
+   Index "public.tooltips_idx1"
+  Column  |         Type
+----------+-----------------------
+ category | character varying(64)
+btree, for table "public.tooltips"
+
+
+Index "public.tooltips_pkey"
+  Column   |  Type
+-----------+---------
+ tooltipid | integer
+primary key, btree, for table "public.tooltips"
+
+
+                                                  Table "public.tourneydata"
+          Column          |            Type             |                              Modifiers                        
+--------------------------+-----------------------------+----------------------------------------------------------------------
+ tourneydata_id           | integer                     | not null default nextval('tourneydata_tourneydata_id_seq'::regclass)
+ tourneynumber            | character varying(20)       | not null
+ site_id                  | smallint                    | not null
+ tourneytagscsv           | text                        | not null
+ buyinincents             | integer                     | not null
+ rakeincents              | integer                     | not null
+ currency_id              | smallint                    | not null
+ filename                 | text                        | not null
+ filelastmodifiedtime     | timestamp without time zone | not null
+ importtype_id            | smallint                    | not null
+ pokergametype_id         | smallint                    | not null
+ speedtype_id             | smallint                    | not null
+ tourneytables            | smallint                    | not null
+ tourneysize              | integer                     | not null
+ tablesize                | smallint                    | not null
+ startingstacksizeinchips | smallint                    | not null
+ player_id                | integer                     | not null
+ firsthandtimestamp       | timestamp without time zone |
+ lasthandtimestamp        | timestamp without time zone |
+ tourneyendedforplayer    | boolean                     | not null
+ finishposition           | integer                     | not null
+ winningsincents          | integer                     | not null
+ winningsdescription      | text                        | not null
+ rebuyamountincents       | integer                     | not null
+ icmadjustedwinnings      | integer                     | not null
+ userassignedtagname      | text                        |
+ bountyincents            | integer                     | default 0
+Indexes:
+    "tourneydata_pkey" PRIMARY KEY, btree (tourneydata_id)
+    "tourneydataindex1" btree (player_id, tourneynumber)
+    "tourneydataindex2" btree (tourneynumber, site_id)
+
+
+Index "public.tourneydata_pkey"
+     Column     |  Type
+----------------+---------
+ tourneydata_id | integer
+primary key, btree, for table "public.tourneydata"
+
+
+     Sequence "public.tourneydata_tourneydata_id_seq"
+    Column     |  Type   |             Value
+---------------+---------+--------------------------------
+ sequence_name | name    | tourneydata_tourneydata_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+   Index "public.tourneydataindex1"
+    Column     |         Type
+---------------+-----------------------
+ player_id     | integer
+ tourneynumber | character varying(20)
+btree, for table "public.tourneydata"
+
+
+   Index "public.tourneydataindex2"
+    Column     |         Type
+---------------+-----------------------
+ tourneynumber | character varying(20)
+ site_id       | smallint
+btree, for table "public.tourneydata"
+
+
+                                                 Table "public.tourneysummaries"
+       Column       |            Type             |                                  Modifiers                          
+--------------------+-----------------------------+------------------------------------------------------------------------------
+ tourneysummary_id  | integer                     | not null default nextval('tourneysummaries_tourneysummary_id_seq'::regclass)
+ pokersite_id       | smallint                    | not null
+ tourneysummarytext | text                        | not null
+ handtimestamp      | timestamp without time zone | not null
+ tourneynumber      | character varying(20)       | not null
+ pokergametype_id   | smallint                    | not null
+ speedtype_id       | smallint                    | not null
+ tourneytables      | smallint                    | not null
+ tourneysize        | integer                     | not null
+ buyinincents       | integer                     | not null
+ rakeincents        | integer                     | not null
+ currency_id        | smallint                    | not null
+Indexes:
+    "tourneysummaries_pkey" PRIMARY KEY, btree (tourneysummary_id)
+    "tourneysummaries_idx1" btree (pokersite_id, tourneynumber)
+
+
+ Index "public.tourneysummaries_idx1"
+    Column     |         Type
+---------------+-----------------------
+ pokersite_id  | smallint
+ tourneynumber | character varying(20)
+btree, for table "public.tourneysummaries"
+
+
+Index "public.tourneysummaries_pkey"
+      Column       |  Type
+-------------------+---------
+ tourneysummary_id | integer
+primary key, btree, for table "public.tourneysummaries"
+
+
+     Sequence "public.tourneysummaries_tourneysummary_id_seq"
+    Column     |  Type   |                 Value
+---------------+---------+----------------------------------------
+ sequence_name | name    | tourneysummaries_tourneysummary_id_seq
+ last_value    | bigint  | 1
+ start_value   | bigint  | 1
+ increment_by  | bigint  | 1
+ max_value     | bigint  | 9223372036854775807
+ min_value     | bigint  | 1
+ cache_value   | bigint  | 1
+ log_cnt       | bigint  | 0
+ is_cycled     | boolean | f
+ is_called     | boolean | f
+
+
+   Table "public.uploadedtosnowie"
+     Column     |  Type   | Modifiers
+----------------+---------+-----------
+ handhistory_id | integer | not null
+Indexes:
+    "uploadedtosnowie_pkey" PRIMARY KEY, btree (handhistory_id)
+Foreign-key constraints:
+    "handhistory_id_fkey" FOREIGN KEY (handhistory_id) REFERENCES handhistories(handhistory_id) ON UPDATE CASCADE ON DELETE CASCADE
+
+
+Index "public.uploadedtosnowie_pkey"
+     Column     |  Type
+----------------+---------
+ handhistory_id | integer
+primary key, btree, for table "public.uploadedtosnowie"
+
+
+HoldemManager2=#
+HoldemManager2=#
+HoldemManager2=#
+HoldemManager2=#
+HoldemManager2=#
+HoldemManager2=#
+HoldemManager2=#

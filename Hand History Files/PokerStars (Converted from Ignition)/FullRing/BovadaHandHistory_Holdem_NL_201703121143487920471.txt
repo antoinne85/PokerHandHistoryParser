@@ -1,0 +1,56 @@
+PokerStars Hand #3435181157: Hold'em No Limit ($0.02/$0.05) - 2017/03/10 22:51:23
+Table '#11428553' Seat #6 is the button
+Seat 1: PLR_7916906YK ($3.51 in chips)
+Seat 2: PLR_9599717IN ($7.33 in chips)
+Seat 3: PLR_7771000JY ($9.52 in chips)
+Seat 4: PLR_9847930ZT ($3.10 in chips)
+Seat 5: PLR_9282444FS ($3.55 in chips)
+Seat 6: PLR_4549761AY ($5.29 in chips)
+Seat 7: PLR_5669780SZ ($4.91 in chips)
+Seat 8: Hero ($5 in chips)
+Seat 9: PLR_9746399RL ($5.76 in chips)
+PLR_5669780SZ: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9s 8h]
+PLR_9746399RL: raises $0.15 to $0.15
+PLR_7916906YK: calls $0.15 
+PLR_9599717IN: calls $0.15 
+PLR_7771000JY: folds
+PLR_9847930ZT: calls $0.15 
+PLR_9282444FS: calls $0.15 
+PLR_4549761AY: folds
+PLR_5669780SZ: folds
+Hero: folds (disconnect)
+*** FLOP *** [5s 2h Jc]
+PLR_9746399RL: checks
+PLR_7916906YK: checks
+PLR_9599717IN: checks
+PLR_9847930ZT: checks
+Seat sit down
+PLR_9282444FS: bets $0.41 
+Table deposit $1.50 
+PLR_9746399RL: folds
+PLR_7916906YK: folds
+PLR_9599717IN: folds
+Table leave user
+PLR_9847930ZT: folds
+Uncalled bet ($0.41) returned to PLR_9282444FS
+PLR_9282444FS: doesn't show hand
+PLR_9282444FS collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.04
+Board [5s 2h Jc]
+Seat 1: PLR_7916906YK showed
+Seat 2: PLR_9599717IN showed
+Seat 3: PLR_7771000JY showed
+Seat 4: PLR_9847930ZT showed
+Seat 5: PLR_9282444FS won ($0.78)
+Seat 6: PLR_4549761AY (button) showed
+Seat 7: PLR_5669780SZ (small blind) showed
+Seat 8: Hero (big blind) showed
+Seat 9: PLR_9746399RL showed
+
+
+
+
