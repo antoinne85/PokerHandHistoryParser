@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Parsers\Base" />
+    <Folder Include="Parsers\Exceptions" />
+    <Folder Include="Parsers\Factory" />
+    <Folder Include="Parsers\FastParser\888" />
+    <Folder Include="Parsers\FastParser\Base" />
+    <Folder Include="Parsers\FastParser\BossMedia" />
+    <Folder Include="Parsers\FastParser\Entraction" />
+    <Folder Include="Parsers\FastParser\FullTiltPoker" />
+    <Folder Include="Parsers\FastParser\IPoker" />
+    <Folder Include="Parsers\FastParser\Merge" />
+    <Folder Include="Parsers\FastParser\MicroGaming" />
+    <Folder Include="Parsers\FastParser\OnGame" />
+    <Folder Include="Parsers\FastParser\PartyPoker" />
+    <Folder Include="Parsers\FastParser\PokerStars" />
+    <Folder Include="Parsers\FastParser\Winamax" />
+    <Folder Include="Parsers\FastParser\Winning" />
+    <Folder Include="Parsers\RegexParser\Base" />
+    <Folder Include="Parsers\RegexParser\PartyPoker" />
+    <Folder Include="Utils\AllInAction" />
+    <Folder Include="Utils\Extensions" />
+    <Folder Include="Utils\FastParsing" />
+    <Folder Include="Utils\Pot" />
+    <Folder Include="Utils\Strings" />
+    <Folder Include="Utils\Time" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HandHistories.Objects\HandHistories.Objects.csproj">
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="5.0.0-beta06">
+    </PackageReference>
+  </ItemGroup>
+  <ProjectExtensions>
+    <MonoDevelop>
+      <Properties>
+        <Policies>
+          <TextStylePolicy TabWidth="4" IndentWidth="4" RemoveTrailingWhitespace="True" NoTabsAfterNonTabs="False" EolMarker="Native" FileWidth="80" TabsToSpaces="True" scope="text/x-csharp" />
+          <CSharpFormattingPolicy IndentBlock="True" IndentBraces="False" IndentSwitchSection="True" IndentSwitchCaseSection="True" LabelPositioning="OneLess" NewLinesForBracesInTypes="True" NewLinesForBracesInMethods="True" NewLinesForBracesInProperties="True" NewLinesForBracesInAccessors="True" NewLinesForBracesInAnonymousMethods="True" NewLinesForBracesInControlBlocks="True" NewLinesForBracesInAnonymousTypes="True" NewLinesForBracesInObjectCollectionArrayInitializers="True" NewLinesForBracesInLambdaExpressionBody="True" NewLineForElse="True" NewLineForCatch="True" NewLineForFinally="True" NewLineForMembersInObjectInit="True" NewLineForMembersInAnonymousTypes="True" NewLineForClausesInQuery="True" SpacingAfterMethodDeclarationName="False" SpaceWithinMethodDeclarationParenthesis="False" SpaceBetweenEmptyMethodDeclarationParentheses="False" SpaceAfterMethodCallName="False" SpaceWithinMethodCallParentheses="False" SpaceBetweenEmptyMethodCallParentheses="False" SpaceAfterControlFlowStatementKeyword="True" SpaceWithinExpressionParentheses="False" SpaceWithinCastParentheses="False" SpaceWithinOtherParentheses="False" SpaceAfterCast="False" SpacesIgnoreAroundVariableDeclaration="False" SpaceBeforeOpenSquareBracket="False" SpaceBetweenEmptySquareBrackets="False" SpaceWithinSquareBrackets="False" SpaceAfterColonInBaseTypeDeclaration="True" SpaceAfterComma="True" SpaceAfterDot="False" SpaceAfterSemicolonsInForStatement="True" SpaceBeforeColonInBaseTypeDeclaration="True" SpaceBeforeComma="False" SpaceBeforeDot="False" SpaceBeforeSemicolonsInForStatement="False" SpacingAroundBinaryOperator="Single" WrappingPreserveSingleLine="True" WrappingKeepStatementsOnSingleLine="True" PlaceSystemDirectiveFirst="True" scope="text/x-csharp" />
+        </Policies>
+      </Properties>
+    </MonoDevelop>
+  </ProjectExtensions>
+</Project>

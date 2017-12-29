@@ -1,0 +1,4141 @@
+PokerStars Zoom Hand #3434244956: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:45:26
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($5.45 in chips)
+Seat 2: UTGplus1 ($5.13 in chips)
+Seat 3: UTGplus2 ($10.26 in chips)
+Seat 4: Dealer ($6.05 in chips)
+Seat 5: Small Blind ($2.25 in chips)
+Seat 6: Hero ($5 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Kc 9d]
+UTG: folds
+UTGplus1: calls $0.05 
+UTGplus2: raises $0.25 to $0.25
+Dealer: folds
+Small Blind: folds
+Hero: calls $0.20 
+UTGplus1: calls $0.20 
+*** FLOP *** [Jh 3h As]
+Hero: checks
+UTGplus1: checks
+UTGplus2: bets $0.48 
+Hero: folds
+UTGplus1: folds
+Uncalled bet ($0.48) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03
+Board [Jh 3h As]
+Seat 1: UTG showed
+Seat 2: UTGplus1 showed
+Seat 3: UTGplus2 won ($0.74)
+Seat 4: Dealer (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Hero (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434245183: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:46:00
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($6.96 in chips)
+Seat 2: Big Blind ($5.46 in chips)
+Seat 3: UTG ($1.56 in chips)
+Seat 4: UTGplus1 ($2.26 in chips)
+Seat 5: Hero ($4.75 in chips)
+Seat 6: Dealer ($5.15 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9s 5s]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) won ($0.07)
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: Hero showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434245224: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:46:06
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($9.52 in chips)
+Seat 2: Hero ($4.75 in chips)
+Seat 3: Dealer ($2.11 in chips)
+Seat 4: Small Blind ($7.91 in chips)
+Seat 5: Big Blind ($4.88 in chips)
+Seat 6: UTG ($9.61 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7d Ks]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: UTGplus1 showed
+Seat 2: Hero showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) won ($0.07)
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434245284: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:46:15
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Hero ($4.75 in chips)
+Seat 2: Big Blind ($5.15 in chips)
+Seat 3: UTG ($1.86 in chips)
+Seat 4: UTGplus1 ($4.95 in chips)
+Seat 5: UTGplus2 ($7.76 in chips)
+Seat 6: Dealer ($5.66 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9h 8h]
+UTG: folds
+UTGplus1: raises $0.15 to $0.15
+UTGplus2: folds
+Dealer: folds
+Hero: raises $0.48 to $0.50
+Big Blind: folds
+UTGplus1: calls $0.35 
+*** FLOP *** [Kh 3c 9c]
+Hero: bets $0.72 
+UTGplus1: folds
+Uncalled bet ($0.72) returned to Hero
+Hero: doesn't show hand
+Hero collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05
+Board [Kh 3c 9c]
+Seat 1: Hero (small blind) won ($1)
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434245566: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:46:55
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($7.74 in chips)
+Seat 2: Hero ($5.25 in chips)
+Seat 3: UTGplus1 ($2.05 in chips)
+Seat 4: UTGplus2 ($2.18 in chips)
+Seat 5: Dealer ($4.85 in chips)
+Seat 6: Small Blind ($4.78 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3c Th]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: calls $0.05 
+Small Blind: raises $0.18 to $0.20
+Big Blind: folds
+Dealer: calls $0.15 
+*** FLOP *** [5h Ad 9s]
+Small Blind: bets $0.20 
+Dealer: calls $0.20 
+*** TURN *** [5h Ad 9s] [5d]
+Small Blind: bets $0.60 
+Dealer: calls $0.60 
+*** RIVER *** [5h Ad 9s 5d] [5s]
+Small Blind: bets $1 
+Dealer: calls $1 
+*** SHOW DOWN ***
+Small Blind: shows [As Qc] (a full house, Fives full of Aces)
+Dealer: shows [Ah Td] (a full house, Fives full of Aces)
+Dealer collected $1.93 from pot
+Small Blind collected $1.92 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.20
+Board [5h Ad 9s 5d 5s]
+Seat 1: Big Blind (big blind) showed
+Seat 2: Hero showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed [Ah Td] and won ($1.93) with a full house, Fives full of Aces
+Seat 6: Small Blind (small blind) showed [As Qc] and won ($1.92) with a full house, Fives full of Aces
+
+
+
+PokerStars Zoom Hand #3434245602: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:47:01
+Table '#952' 6-max Seat #3 is the button
+Seat 1: Hero ($5.25 in chips)
+Seat 2: UTGplus2 ($10.41 in chips)
+Seat 3: Dealer ($2.66 in chips)
+Seat 4: Small Blind ($8.79 in chips)
+Seat 5: Big Blind ($4.85 in chips)
+Seat 6: UTG ($4.79 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9c Ks]
+UTG: folds
+Hero: folds
+UTGplus2: calls $0.05 
+Dealer: folds
+Small Blind: calls $0.03 
+Big Blind: checks
+*** FLOP *** [6c 6h 6s]
+Small Blind: checks
+Big Blind: checks
+UTGplus2: checks
+*** TURN *** [6c 6h 6s] [Jc]
+Small Blind: checks
+Big Blind: checks
+UTGplus2: checks
+*** RIVER *** [6c 6h 6s Jc] [7c]
+Small Blind: checks
+Big Blind: checks
+UTGplus2: bets $0.15 
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.15) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.00
+Board [6c 6h 6s Jc 7c]
+Seat 1: Hero showed
+Seat 2: UTGplus2 won ($0.15)
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434245644: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:47:07
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($2.87 in chips)
+Seat 2: UTG ($5.51 in chips)
+Seat 3: UTGplus1 ($5.97 in chips)
+Seat 4: Hero ($5.25 in chips)
+Seat 5: Dealer ($4.79 in chips)
+Seat 6: Small Blind ($9.30 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2s 9h]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Big Blind (big blind) won ($0.07)
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: Hero showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434245669: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:47:11
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($2.94 in chips)
+Seat 2: Big Blind ($5.57 in chips)
+Seat 3: UTG ($2.18 in chips)
+Seat 4: UTGplus1 ($9.28 in chips)
+Seat 5: Hero ($5.25 in chips)
+Seat 6: Dealer ($7.69 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qh Ah]
+UTG: calls $0.05 
+UTGplus1: folds
+Hero: raises $0.22 to $0.22
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+UTG: folds
+Uncalled bet ($0.17) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: Hero won ($0.17)
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434245906: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:47:45
+Table '#952' 6-max Seat #2 is the button
+Seat 1: UTGplus2 ($4.78 in chips)
+Seat 2: Dealer ($5.46 in chips)
+Seat 3: Small Blind ($4.78 in chips)
+Seat 4: Hero ($5.37 in chips)
+Seat 5: UTG ($6.47 in chips)
+Seat 6: UTGplus1 ($2.11 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3s 8d]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: calls $0.13 
+Hero: folds
+*** FLOP *** [4c 6s 8h]
+Small Blind: checks
+Dealer: checks
+*** TURN *** [4c 6s 8h] [8s]
+Small Blind: bets $0.22 
+Dealer: calls $0.22 
+*** RIVER *** [4c 6s 8h 8s] [Th]
+Small Blind: checks
+Dealer: checks
+*** SHOW DOWN ***
+Small Blind: shows [9c Ac] (a pair of Eights)
+Dealer: shows [As 4h] (two pair, Eights and Aces)
+Dealer collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03
+Board [4c 6s 8h 8s Th]
+Seat 1: UTGplus2 showed
+Seat 2: Dealer (button) showed [As 4h] and won ($0.76) with two pair, Eights and Aces
+Seat 3: Small Blind (small blind) showed [9c Ac] and lost with a pair of Eights
+Seat 4: Hero (big blind) showed
+Seat 5: UTG showed
+Seat 6: UTGplus1 showed
+
+
+
+PokerStars Zoom Hand #3434245942: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:47:50
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($7.78 in chips)
+Seat 2: UTG ($3.91 in chips)
+Seat 3: UTGplus1 ($6.19 in chips)
+Seat 4: Hero ($5.32 in chips)
+Seat 5: Dealer ($2.11 in chips)
+Seat 6: Small Blind ($6.28 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6c 3d]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: calls $0.03 
+Big Blind: checks
+*** FLOP *** [2d Ah 6s]
+Small Blind: bets $0.05 
+Big Blind: folds
+Uncalled bet ($0.05) returned to Small Blind
+Small Blind: doesn't show hand
+Small Blind collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Board [2d Ah 6s]
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: Hero showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) won ($0.1)
+
+
+
+PokerStars Zoom Hand #3434245967: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:47:54
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($5.23 in chips)
+Seat 2: UTGplus2 ($2.65 in chips)
+Seat 3: Dealer ($2.09 in chips)
+Seat 4: Small Blind ($6.19 in chips)
+Seat 5: Big Blind ($5.92 in chips)
+Seat 6: Hero ($5.32 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4h 9h]
+Hero: folds
+UTGplus1: raises $1.72 to $1.72
+UTGplus2: folds 
+Dealer: folds
+Small Blind: folds
+UTGplus2: Seat re-join
+Big Blind: folds
+*** SHOW DOWN ***
+UTGplus1: shows [8h 5d] (high card Eight)
+Uncalled bet ($1.67) returned to UTGplus1
+UTGplus1 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 collected ($0.12)
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: Hero showed
+
+
+
+PokerStars Zoom Hand #3434246005: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:47:59
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($4.95 in chips)
+Seat 2: UTGplus1 ($1.95 in chips)
+Seat 3: UTGplus2 ($9.21 in chips)
+Seat 4: Hero ($5.32 in chips)
+Seat 5: Small Blind ($10.51 in chips)
+Seat 6: Big Blind ($6.17 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [As 8c]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: raises $0.17 to $0.17
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTG showed
+Seat 2: UTGplus1 showed
+Seat 3: UTGplus2 showed
+Seat 4: Hero (button) won ($0.12)
+Seat 5: Small Blind (small blind) showed
+Seat 6: Big Blind (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434246178: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:48:24
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($5.22 in chips)
+Seat 2: Big Blind ($13.91 in chips)
+Seat 3: Hero ($5.39 in chips)
+Seat 4: UTGplus1 ($2.77 in chips)
+Seat 5: UTGplus2 ($10.29 in chips)
+Seat 6: Dealer ($5.06 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qh 3c]
+Hero: folds
+UTGplus1: raises $0.15 to $0.15
+UTGplus2: calls $0.15 
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+*** FLOP *** [4d Th 9s]
+UTGplus1: bets $0.10 
+UTGplus2: calls $0.10 
+*** TURN *** [4d Th 9s] [Jd]
+UTGplus1: checks
+UTGplus2: checks
+*** RIVER *** [4d Th 9s Jd] [Jh]
+UTGplus1: checks
+UTGplus2: checks
+*** SHOW DOWN ***
+UTGplus1: shows [Kh As] (a pair of Jacks)
+UTGplus2: shows [7c 7h] (two pair, Jacks and Tens)
+UTGplus2 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02
+Board [4d Th 9s Jd Jh]
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: Hero showed
+Seat 4: UTGplus1 showed [Kh As] and lost with a pair of Jacks
+Seat 5: UTGplus2 showed [7c 7h] and won ($0.55) with two pair, Jacks and Tens
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434246218: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:48:30
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($5.06 in chips)
+Seat 2: Hero ($5.39 in chips)
+Seat 3: UTGplus1 ($4.08 in chips)
+Seat 4: UTGplus2 ($6.13 in chips)
+Seat 5: Dealer ($3.98 in chips)
+Seat 6: Small Blind ($20.94 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5h Ks]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.10 to $0.10
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.05) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.12 from pot
+Table leave user
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: Hero showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) won ($0.12)
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434246248: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:48:35
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($6.27 in chips)
+Seat 2: UTGplus2 ($3.18 in chips)
+Seat 3: Dealer ($9.85 in chips)
+Seat 4: Small Blind ($5.46 in chips)
+Seat 5: Big Blind ($9.06 in chips)
+Seat 6: Hero ($5.39 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ks Jh]
+Hero: raises $0.20 to $0.20
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.15) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: Hero won ($0.12)
+
+
+
+PokerStars Zoom Hand #3434246398: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:48:57
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($6.08 in chips)
+Seat 2: UTGplus2 ($5.68 in chips)
+Seat 3: Dealer ($4.84 in chips)
+Seat 4: Small Blind ($6.04 in chips)
+Seat 5: Hero ($5.46 in chips)
+Seat 6: UTG ($0.91 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8c Ah]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: raises $0.13 to $0.15
+Hero: calls $0.10 
+*** FLOP *** [Js 7c 4h]
+Small Blind: checks
+Hero: bets $0.15 
+Small Blind: calls $0.15 
+*** TURN *** [Js 7c 4h] [3d]
+Small Blind: checks
+Hero: checks
+*** RIVER *** [Js 7c 4h 3d] [Qs]
+Small Blind: bets $0.81 
+Hero: folds
+Uncalled bet ($0.81) returned to Small Blind
+Small Blind: doesn't show hand
+Small Blind collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.6 | Rake $0.03
+Board [Js 7c 4h 3d Qs]
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) won ($0.57)
+Seat 5: Hero (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434246674: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:49:35
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($1.03 in chips)
+Seat 2: Big Blind ($6.29 in chips)
+Seat 3: UTG ($5.11 in chips)
+Seat 4: UTGplus1 ($9.15 in chips)
+Seat 5: UTGplus2 ($5.55 in chips)
+Seat 6: Hero ($5.16 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2d Tc]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Hero: folds
+Small Blind: calls $0.13 
+Big Blind: calls $0.10 
+*** FLOP *** [2h Ks 8c]
+Small Blind: checks
+Big Blind: checks
+UTGplus2: checks
+*** TURN *** [2h Ks 8c] [Jc]
+Small Blind: checks
+Big Blind: checks
+UTGplus2: bets $0.32 
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.32) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02
+Board [2h Ks 8c Jc]
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 won ($0.43)
+Seat 6: Hero (button) showed
+
+
+
+PokerStars Zoom Hand #3434246697: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:49:39
+Table '#952' 6-max Seat #2 is the button
+Seat 1: UTGplus2 ($6.56 in chips)
+Seat 2: Dealer ($3.78 in chips)
+Seat 3: Small Blind ($2.64 in chips)
+Seat 4: Big Blind ($6.31 in chips)
+Seat 5: UTG ($6.81 in chips)
+Seat 6: Hero ($5.16 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jd 9h]
+UTG: raises $0.15 to $0.15
+Hero: calls $0.15 
+UTGplus2: folds
+Dealer: folds
+Small Blind: calls $0.13 
+Big Blind: calls $0.10 
+*** FLOP *** [5c 9s Ts]
+Small Blind: bets $0.05 
+Big Blind: calls $0.05 
+UTG: calls $0.05 
+Hero: calls $0.05 
+*** TURN *** [5c 9s Ts] [7h]
+Small Blind: checks
+Big Blind: bets $0.05 
+UTG: raises $0.47 to $0.47
+Hero: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.42) returned to UTG
+UTG: doesn't show hand
+UTG collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.9 | Rake $0.04
+Board [5c 9s Ts 7h]
+Seat 1: UTGplus2 showed
+Seat 2: Dealer (button) showed
+Seat 3: Small Blind (small blind) showed
+Seat 4: Big Blind (big blind) showed
+Seat 5: UTG won ($0.86)
+Seat 6: Hero showed
+
+
+
+PokerStars Zoom Hand #3434247068: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:50:30
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($5.83 in chips)
+Seat 2: UTG ($6.27 in chips)
+Seat 3: UTGplus1 ($5.01 in chips)
+Seat 4: UTGplus2 ($6.34 in chips)
+Seat 5: Hero ($4.96 in chips)
+Seat 6: Small Blind ($6.81 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7h 5h]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: raises $0.17 to $0.17
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Hero (button) won ($0.12)
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434247263: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:50:58
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Hero ($5.03 in chips)
+Seat 2: UTG ($2.64 in chips)
+Seat 3: UTGplus1 ($7.83 in chips)
+Seat 4: UTGplus2 ($6.13 in chips)
+Seat 5: Dealer ($6.79 in chips)
+Seat 6: Small Blind ($2.45 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5h Ks]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Dealer: calls $0.15 
+Small Blind: calls $0.13 
+Hero: folds
+*** FLOP *** [Kh 5d Ts]
+Small Blind: checks
+UTGplus2: checks
+Dealer: bets $0.05 
+Small Blind: calls $0.05 
+UTGplus2: calls $0.05 
+*** TURN *** [Kh 5d Ts] [6c]
+Small Blind: checks
+UTGplus2: checks
+Dealer: bets $0.05 
+Small Blind: calls $0.05 
+UTGplus2: raises $0.25 to $0.25
+Dealer: folds
+Small Blind: calls $0.20 
+*** RIVER *** [Kh 5d Ts 6c] [3c]
+Small Blind: checks
+UTGplus2: checks
+*** SHOW DOWN ***
+Small Blind: shows [8d 6d] (a pair of Sixs)
+UTGplus2: shows [6s Qs] (a pair of Sixs)
+UTGplus2 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.2 | Rake $0.06
+Board [Kh 5d Ts 6c 3c]
+Seat 1: Hero (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed [6s Qs] and won ($1.14) with a pair of Sixes
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed [8d 6d] and lost with a pair of Sixes
+
+
+
+PokerStars Zoom Hand #3434247300: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:51:04
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($5.26 in chips)
+Seat 2: Hero ($4.98 in chips)
+Seat 3: UTGplus1 ($5.78 in chips)
+Seat 4: UTGplus2 ($13.09 in chips)
+Seat 5: Dealer ($9.03 in chips)
+Seat 6: Small Blind ($5.36 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4s Kd]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: raises $0.48 to $0.50
+Big Blind: folds
+Dealer: folds
+Uncalled bet ($0.35) returned to Small Blind
+Small Blind: doesn't show hand
+Small Blind collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: Hero showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) won ($0.35)
+
+
+
+PokerStars Zoom Hand #3434247342: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:51:09
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($6.22 in chips)
+Seat 2: UTGplus1 ($13.09 in chips)
+Seat 3: Hero ($4.98 in chips)
+Seat 4: Dealer ($9.90 in chips)
+Seat 5: Small Blind ($5.95 in chips)
+Seat 6: Big Blind ($4.64 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4c 8d]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTG showed
+Seat 2: UTGplus1 showed
+Seat 3: Hero showed
+Seat 4: Dealer (button) won ($0.12)
+Seat 5: Small Blind (small blind) showed
+Seat 6: Big Blind (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434247395: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:51:17
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($10.22 in chips)
+Seat 2: Small Blind ($7.83 in chips)
+Seat 3: Big Blind ($13.09 in chips)
+Seat 4: UTG ($9.58 in chips)
+Seat 5: UTGplus1 ($5.45 in chips)
+Seat 6: Hero ($4.98 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Kd Qc]
+UTG: folds
+UTGplus1: folds
+Hero: raises $0.17 to $0.17
+Dealer: raises $0.58 to $0.58
+Small Blind: folds
+Big Blind: calls $0.53 
+Hero: calls $0.41 
+*** FLOP *** [5c Tc 5s]
+Big Blind: bets $1.76 
+Hero: folds
+Dealer: raises $7.88 to $9.64 and is all-in
+Big Blind: calls $7.88 
+*** TURN *** [5c Tc 5s] [Js]
+*** RIVER *** [5c Tc 5s Js] [9d]
+*** SHOW DOWN ***
+Dealer: shows [Kc Ac] (a pair of Fives)
+Big Blind: shows [4c 5h] (three of a kind, Fives)
+Big Blind collected $19.99 from pot
+*** SUMMARY ***
+Total pot $21.04 | Rake $1.05
+Board [5c Tc 5s Js 9d]
+Seat 1: Dealer (button) showed [Kc Ac] and lost with a pair of Fives
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed [4c 5h] and won ($19.99) with three of a kind, Fives
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: Hero showed
+
+
+
+PokerStars Zoom Hand #3434247618: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:51:48
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($1.25 in chips)
+Seat 2: UTG ($8.18 in chips)
+Seat 3: UTGplus1 ($7.81 in chips)
+Seat 4: UTGplus2 ($4.73 in chips)
+Seat 5: Hero ($4.40 in chips)
+Seat 6: Small Blind ($4.46 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Kd Tc]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: raises $0.17 to $0.17
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Hero (button) won ($0.12)
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434247781: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:52:13
+Table '#952' 6-max Seat #2 is the button
+Seat 1: UTGplus2 ($5.54 in chips)
+Seat 2: Dealer ($8.30 in chips)
+Seat 3: Small Blind ($7.73 in chips)
+Seat 4: Big Blind ($2.32 in chips)
+Seat 5: Hero ($4.47 in chips)
+Seat 6: UTGplus1 ($2.67 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9c As]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.10 to $0.10
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.05) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus2 showed
+Seat 2: Dealer (button) won ($0.12)
+Seat 3: Small Blind (small blind) showed
+Seat 4: Big Blind (big blind) showed
+Seat 5: Hero showed
+Seat 6: UTGplus1 showed
+
+
+
+PokerStars Zoom Hand #3434247830: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:52:20
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($6.91 in chips)
+Seat 2: Small Blind ($5.54 in chips)
+Seat 3: Hero ($4.47 in chips)
+Seat 4: UTG ($5.43 in chips)
+Seat 5: UTGplus1 ($4.55 in chips)
+Seat 6: UTGplus2 ($5.90 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kd]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: folds
+Hero: raises $0.40 to $0.45
+Dealer: folds
+Uncalled bet ($0.30) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.00
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Hero (big blind) won ($0.32)
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434247990: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:52:44
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($5 in chips)
+Seat 2: UTG ($2.52 in chips)
+Seat 3: UTGplus1 ($8.12 in chips)
+Seat 4: UTGplus2 ($4.73 in chips)
+Seat 5: Dealer ($5.05 in chips)
+Seat 6: Hero ($4.64 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9h 7d]
+UTG: folds (disconnect)
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Hero: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) won ($0.12)
+Seat 6: Hero (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434248118: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:53:01
+Table '#952' 6-max Seat #3 is the button
+Seat 1: Hero ($4.62 in chips)
+Seat 2: UTGplus2 ($12.62 in chips)
+Seat 3: Dealer ($10.30 in chips)
+Seat 4: Small Blind ($1.85 in chips)
+Seat 5: Big Blind ($4.93 in chips)
+Seat 6: UTG ($5.56 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8s Qs]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: calls $0.03 
+Big Blind: raises $0.15 to $0.20
+Small Blind: calls $0.15 
+*** FLOP *** [Td Kc 8h]
+Small Blind: checks
+Big Blind: bets $0.20 
+Small Blind: calls $0.20 
+*** TURN *** [Td Kc 8h] [2h]
+Small Blind: checks
+Big Blind: checks
+*** RIVER *** [Td Kc 8h 2h] [Qh]
+Small Blind: checks
+Big Blind: bets $0.60 
+Small Blind: folds
+Uncalled bet ($0.60) returned to Big Blind
+Big Blind: doesn't show hand
+Big Blind collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.8 | Rake $0.04
+Board [Td Kc 8h 2h Qh]
+Seat 1: Hero showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) won ($0.76)
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434248159: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:53:08
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($1.77 in chips)
+Seat 2: Big Blind ($5.12 in chips)
+Seat 3: UTG ($5.45 in chips)
+Seat 4: Hero ($4.62 in chips)
+Seat 5: UTGplus2 ($2.47 in chips)
+Seat 6: Dealer ($5 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ad Ac]
+UTG: folds
+Hero: raises $0.17 to $0.17
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: Hero won ($0.12)
+Seat 5: UTGplus2 showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434248303: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:53:31
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($14.53 in chips)
+Seat 2: UTG ($4.98 in chips)
+Seat 3: Hero ($4.69 in chips)
+Seat 4: UTGplus2 ($5.03 in chips)
+Seat 5: Dealer ($5.24 in chips)
+Seat 6: Small Blind ($2.69 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Td 5s]
+UTG: raises $0.15 to $0.15
+Hero: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTG
+UTG: doesn't show hand
+UTG collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG won ($0.12)
+Seat 3: Hero showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434248370: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:53:39
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($5.54 in chips)
+Seat 2: Hero ($4.69 in chips)
+Seat 3: Dealer ($2.64 in chips)
+Seat 4: Small Blind ($2.89 in chips)
+Seat 5: Big Blind ($6.90 in chips)
+Seat 6: UTG ($5.88 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qc Ks]
+UTG: folds
+UTGplus1: folds
+Hero: raises $0.17 to $0.17
+Dealer: folds
+Small Blind: folds
+Big Blind: folds 
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 showed
+Seat 2: Hero won ($0.12)
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434248648: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:54:15
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($14.46 in chips)
+Seat 2: Big Blind ($2.37 in chips)
+Seat 3: UTG ($2.66 in chips)
+Seat 4: UTGplus1 ($4.52 in chips)
+Seat 5: UTGplus2 ($5.99 in chips)
+Seat 6: Hero ($4.76 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5h Kd]
+UTG: folds
+UTGplus1: raises $0.15 to $0.15
+UTGplus2: folds
+Hero: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTGplus1
+UTGplus1: doesn't show hand
+UTGplus1 collected $0.12 from pot
+Table deposit $3.65 
+Table deposit $0.11 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 won ($0.12)
+Seat 5: UTGplus2 showed
+Seat 6: Hero (button) showed
+
+
+
+PokerStars Zoom Hand #3434248683: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:54:21
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Hero ($4.76 in chips)
+Seat 2: UTG ($5 in chips)
+Seat 3: UTGplus1 ($5.40 in chips)
+Seat 4: UTGplus2 ($4.58 in chips)
+Seat 5: Dealer ($2.52 in chips)
+Seat 6: Small Blind ($5.07 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jc Ah]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: folds
+Hero: raises $0.42 to $0.47
+Dealer: folds
+Uncalled bet ($0.32) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.00
+Seat 1: Hero (big blind) won ($0.32)
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434248866: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:54:48
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($5.69 in chips)
+Seat 2: Small Blind ($5 in chips)
+Seat 3: Big Blind ($4.66 in chips)
+Seat 4: UTG ($4.77 in chips)
+Seat 5: UTGplus1 ($5.12 in chips)
+Seat 6: Hero ($4.93 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ah 7d]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) won ($0.07)
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: Hero showed
+
+
+
+PokerStars Zoom Hand #3434248898: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:54:54
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Hero ($4.93 in chips)
+Seat 2: UTG ($5.92 in chips)
+Seat 3: UTGplus1 ($31.39 in chips)
+Seat 4: UTGplus2 ($3.67 in chips)
+Seat 5: Dealer ($4.77 in chips)
+Seat 6: Small Blind ($6.75 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ks 3c]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.27 to $0.27
+Dealer: folds
+Small Blind: folds
+Hero: folds
+Uncalled bet ($0.22) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.12 from pot
+Table deposit $5 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Hero (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 won ($0.12)
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434248942: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:55:01
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($6.53 in chips)
+Seat 2: Small Blind ($5.83 in chips)
+Seat 3: Big Blind ($4.61 in chips)
+Seat 4: UTG ($2.88 in chips)
+Seat 5: UTGplus1 ($3.06 in chips)
+Seat 6: Hero ($4.88 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8c Jh]
+UTG: raises $0.15 to $0.15
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTG
+UTG: doesn't show hand
+UTG collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG won ($0.12)
+Seat 5: UTGplus1 showed
+Seat 6: Hero showed
+
+
+
+PokerStars Zoom Hand #3434248987: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:55:06
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($4.95 in chips)
+Seat 2: Hero ($4.88 in chips)
+Seat 3: UTGplus1 ($1.55 in chips)
+Seat 4: UTGplus2 ($11.32 in chips)
+Seat 5: Dealer ($9.18 in chips)
+Seat 6: Small Blind ($2.58 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jh 3c]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: calls $0.13 
+Big Blind: calls $0.10 
+*** FLOP *** [As 4s 2d]
+Small Blind: bets $0.10 
+Big Blind: folds
+Dealer: calls $0.10 
+*** TURN *** [As 4s 2d] [6s]
+Small Blind: bets $0.10 
+Dealer: calls $0.10 
+*** RIVER *** [As 4s 2d 6s] [2s]
+Small Blind: bets $0.10 
+Dealer: calls $0.10 
+*** SHOW DOWN ***
+Small Blind: shows [Jd Ac] (two pair, Aces and Jacks)
+Dealer: shows [9s 9c] (a flush, Ace high)
+Dealer collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05
+Board [As 4s 2d 6s 2s]
+Seat 1: Big Blind (big blind) showed
+Seat 2: Hero showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed [9s 9c] and won ($1) with a flush, Ace high
+Seat 6: Small Blind (small blind) showed [Jd Ac] and lost with two pair, Aces and Jacks
+
+
+
+PokerStars Zoom Hand #3434249021: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:55:10
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($5.12 in chips)
+Seat 2: UTGplus1 ($4.10 in chips)
+Seat 3: Hero ($4.88 in chips)
+Seat 4: Dealer ($2.59 in chips)
+Seat 5: Small Blind ($9.26 in chips)
+Seat 6: Big Blind ($6.34 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8h 8c]
+UTG: raises $0.15 to $0.15
+UTGplus1: calls $0.15 
+Hero: calls $0.15 
+Dealer: folds
+Small Blind: folds
+Big Blind: calls $0.10 
+*** FLOP *** [6s Qh 5d]
+Big Blind: checks
+UTG: bets $0.31 
+UTGplus1: folds
+Hero: calls $0.31 
+Big Blind: folds
+*** TURN *** [6s Qh 5d] [6h]
+UTG: checks
+Hero: bets $0.72 
+UTG: calls $0.72 
+*** RIVER *** [6s Qh 5d 6h] [8d]
+UTG: checks
+Hero: bets $2.68 
+UTG: calls $2.68 
+*** SHOW DOWN ***
+Hero: shows [8h 8c] (a full house, Eights full of Sixs)
+UTG: shows [Qc Kc] (Two pair)
+Hero collected $7.64 from pot
+*** SUMMARY ***
+Total pot $8.04 | Rake $0.40
+Board [6s Qh 5d 6h 8d]
+Seat 1: UTG showed [Qc Kc]
+Seat 2: UTGplus1 showed
+Seat 3: Hero showed [8h 8c] and won ($7.64) with a full house, Eights full of Sixes
+Seat 4: Dealer (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Big Blind (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434249496: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:56:20
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($3.29 in chips)
+Seat 2: Big Blind ($8.13 in chips)
+Seat 3: UTG ($5.03 in chips)
+Seat 4: UTGplus1 ($4.64 in chips)
+Seat 5: UTGplus2 ($1.26 in chips)
+Seat 6: Hero ($8.66 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6c 3h]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) won ($0.07)
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 showed
+Seat 6: Hero (button) showed
+
+
+
+PokerStars Zoom Hand #3434249568: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:56:31
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($4.76 in chips)
+Seat 2: Hero ($8.66 in chips)
+Seat 3: UTGplus1 ($5.81 in chips)
+Seat 4: UTGplus2 ($5.02 in chips)
+Seat 5: Dealer ($6.29 in chips)
+Seat 6: Small Blind ($1.94 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8h Ad]
+Hero: folds
+UTGplus1: raises $0.15 to $0.15
+UTGplus2: raises $0.52 to $0.52
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+UTGplus1: calls $0.37 
+*** FLOP *** [As 5h 9c]
+UTGplus1: checks
+UTGplus2: bets $0.47 
+UTGplus1: folds
+Uncalled bet ($0.47) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $1.06 from pot
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.05
+Board [As 5h 9c]
+Seat 1: Big Blind (big blind) showed
+Seat 2: Hero showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 won ($1.06)
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434249614: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:56:37
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($1.88 in chips)
+Seat 2: Big Blind ($6.44 in chips)
+Seat 3: UTG ($4.87 in chips)
+Seat 4: UTGplus1 ($4.65 in chips)
+Seat 5: Hero ($8.66 in chips)
+Seat 6: Dealer ($2.61 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6c 4d]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: calls $0.13 
+Big Blind: folds
+*** FLOP *** [6d 7h 3d]
+Small Blind: checks
+Dealer: bets $0.30 
+Small Blind: calls $0.30 
+*** TURN *** [6d 7h 3d] [Qd]
+Small Blind: checks
+Dealer: checks
+*** RIVER *** [6d 7h 3d Qd] [2d]
+Small Blind: bets $0.35 
+Dealer: calls $0.35 
+*** SHOW DOWN ***
+Small Blind: shows [Th Kc] (high card King)
+Dealer: shows [9c 9d] (a flush, Queen high)
+Dealer collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.08
+Board [6d 7h 3d Qd 2d]
+Seat 1: Small Blind (small blind) showed [Th Kc-Kc Qd Th 7h 6d] and lost with high card Ten
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: Hero showed
+Seat 6: Dealer (button) showed [9c 9d] and won ($1.57) with a flush, Queen high
+
+
+
+PokerStars Zoom Hand #3434249676: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:56:47
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($2.80 in chips)
+Seat 2: Hero ($8.66 in chips)
+Seat 3: Big Blind ($5 in chips)
+Seat 4: UTG ($3.29 in chips)
+Seat 5: UTGplus1 ($9.37 in chips)
+Seat 6: UTGplus2 ($4.93 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Tc 6s]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Dealer: folds
+Hero: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Dealer (button) showed
+Seat 2: Hero (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 won ($0.12)
+
+
+
+PokerStars Zoom Hand #3434249711: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:56:51
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($2.80 in chips)
+Seat 2: Small Blind ($3.29 in chips)
+Seat 3: Hero ($8.64 in chips)
+Seat 4: UTG ($1.92 in chips)
+Seat 5: UTGplus1 ($4.80 in chips)
+Seat 6: UTGplus2 ($6.95 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ts Qh]
+UTG: raises $0.10 to $0.10
+UTGplus1: folds
+UTGplus2: calls $0.10 
+Dealer: folds
+Small Blind: calls $0.08 
+Hero: calls $0.05 
+*** FLOP *** [2h 4d Th]
+Small Blind: checks
+Hero: checks
+UTG: checks
+UTGplus2: checks
+*** TURN *** [2h 4d Th] [Kh]
+Small Blind: checks
+Hero: checks
+UTG: checks
+UTGplus2: bets $0.20 
+Small Blind: folds
+Hero: folds
+UTG: folds
+Uncalled bet ($0.20) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.38 from pot
+Table deposit $0.28 
+*** SUMMARY ***
+Total pot $0.4 | Rake $0.02
+Board [2h 4d Th Kh]
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Hero (big blind) showed
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 won ($0.38)
+
+
+
+PokerStars Zoom Hand #3434250059: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:57:40
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($2.71 in chips)
+Seat 2: Big Blind ($6.54 in chips)
+Seat 3: UTG ($2.62 in chips)
+Seat 4: UTGplus1 ($4.87 in chips)
+Seat 5: Hero ($8.54 in chips)
+Seat 6: Dealer ($6.04 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Kc Qd]
+UTG: raises $0.15 to $0.15
+UTGplus1: folds
+Hero: calls $0.15 
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+*** FLOP *** [Td 6h 5d]
+UTG: bets $0.20 
+Hero: calls $0.20 
+*** TURN *** [Td 6h 5d] [Ad]
+UTG: bets $0.50 
+Hero: calls $0.50 
+*** RIVER *** [Td 6h 5d Ad] [Kd]
+UTG: bets $1.77 and is all-in
+Hero: calls $1.77 
+*** SHOW DOWN ***
+UTG: shows [Js 7s] (high card Ace)
+Hero: shows [Kc Qd] (a flush, Ace high)
+Hero collected $5.05 from pot
+Table leave user
+*** SUMMARY ***
+Total pot $5.31 | Rake $0.26
+Board [Td 6h 5d Ad Kd]
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed [Js 7s-Ad Kd Js Td 7s] and lost with high card Jack
+Seat 4: UTGplus1 showed
+Seat 5: Hero showed [Kc Qd] and won ($5.05) with a flush, Ace high
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434250500: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:58:41
+Table '#952' 6-max Seat #3 is the button
+Seat 1: Hero ($10.97 in chips)
+Seat 2: UTGplus2 ($6.55 in chips)
+Seat 3: Dealer ($10.13 in chips)
+Seat 4: Small Blind ($6.46 in chips)
+Seat 5: Big Blind ($7.03 in chips)
+Seat 6: UTG ($6.28 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5h 6c]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: raises $0.13 to $0.15
+Big Blind: folds
+Uncalled bet ($0.10) returned to Small Blind
+Small Blind: doesn't show hand
+Small Blind collected $0.1 from pot
+*** SUMMARY ***
+Total pot $0.1 | Rake $0.00
+Seat 1: Hero showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) won ($0.1)
+Seat 5: Big Blind (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434250547: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:58:49
+Table '#952' 6-max Seat #2 is the button
+Seat 1: UTGplus2 ($4.71 in chips)
+Seat 2: Dealer ($4.80 in chips)
+Seat 3: Small Blind ($6.44 in chips)
+Seat 4: Big Blind ($5 in chips)
+Seat 5: Hero ($10.97 in chips)
+Seat 6: UTGplus1 ($7.57 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ac 8h]
+Hero: folds
+UTGplus1: raises $0.12 to $0.12
+UTGplus2: folds
+Dealer: raises $0.43 to $0.43
+Small Blind: folds
+Big Blind: folds
+UTGplus1: folds
+Uncalled bet ($0.31) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.00
+Seat 1: UTGplus2 showed
+Seat 2: Dealer (button) won ($0.31)
+Seat 3: Small Blind (small blind) showed
+Seat 4: Big Blind (big blind) showed
+Seat 5: Hero showed
+Seat 6: UTGplus1 showed
+
+
+
+PokerStars Zoom Hand #3434250577: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:58:53
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($2.99 in chips)
+Seat 2: Big Blind ($5 in chips)
+Seat 3: UTG ($4.14 in chips)
+Seat 4: UTGplus1 ($4.32 in chips)
+Seat 5: Hero ($10.97 in chips)
+Seat 6: Dealer ($5.93 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3s 3h]
+UTG: folds
+UTGplus1: raises $0.15 to $0.15
+Hero: calls $0.15 
+Dealer: folds
+Small Blind: calls $0.13 
+Big Blind: folds
+*** FLOP *** [Kh 5s 9c]
+Small Blind: checks
+UTGplus1: checks
+Hero: checks
+*** TURN *** [Kh 5s 9c] [Th]
+Small Blind: checks
+UTGplus1: checks
+Hero: checks
+*** RIVER *** [Kh 5s 9c Th] [4c]
+Small Blind: checks
+UTGplus1: checks
+Hero: checks
+*** SHOW DOWN ***
+Small Blind: shows [8h 8d] (a pair of Eights)
+UTGplus1: shows [Ac Qd] (High Card)
+Hero: shows [3s 3h] (One pair)
+Small Blind collected $0.48 from pot
+Table deposit $2.50 
+*** SUMMARY ***
+Total pot $0.5 | Rake $0.02
+Board [Kh 5s 9c Th 4c]
+Seat 1: Small Blind (small blind) showed [8h 8d] and won ($0.48) with a pair of Eights
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed [Ac Qd]
+Seat 5: Hero showed [3s 3h]
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434250958: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:59:49
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($3.32 in chips)
+Seat 2: Big Blind ($4.17 in chips)
+Seat 3: Hero ($10.82 in chips)
+Seat 4: UTGplus1 ($4.07 in chips)
+Seat 5: UTGplus2 ($5 in chips)
+Seat 6: Dealer ($5.61 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3d Kh]
+Hero: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: Hero showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 won ($0.12)
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434250998: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 19:59:55
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($2.50 in chips)
+Seat 2: UTG ($6.26 in chips)
+Seat 3: Hero ($10.82 in chips)
+Seat 4: UTGplus2 ($9.19 in chips)
+Seat 5: Dealer ($5.70 in chips)
+Seat 6: Small Blind ($4.92 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Th 5d]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: raises $0.13 to $0.15
+Big Blind: raises $0.40 to $0.45
+Small Blind: folds
+Uncalled bet ($0.30) returned to Big Blind
+Big Blind: doesn't show hand
+Big Blind collected $0.3 from pot
+*** SUMMARY ***
+Total pot $0.3 | Rake $0.00
+Seat 1: Big Blind (big blind) won ($0.3)
+Seat 2: UTG showed
+Seat 3: Hero showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434251045: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:00:01
+Table '#952' 6-max Seat #2 is the button
+Seat 1: UTGplus2 ($30.99 in chips)
+Seat 2: Dealer ($6.87 in chips)
+Seat 3: Small Blind ($6.25 in chips)
+Seat 4: Big Blind ($2.50 in chips)
+Seat 5: Hero ($10.82 in chips)
+Seat 6: UTGplus1 ($4.11 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2h 9d]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: UTGplus2 showed
+Seat 2: Dealer (button) showed
+Seat 3: Small Blind (small blind) showed
+Seat 4: Big Blind (big blind) won ($0.07)
+Seat 5: Hero showed
+Seat 6: UTGplus1 showed
+
+
+
+PokerStars Zoom Hand #3434251084: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:00:06
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($3.50 in chips)
+Seat 2: Big Blind ($2.50 in chips)
+Seat 3: UTG ($5.23 in chips)
+Seat 4: Hero ($10.82 in chips)
+Seat 5: UTGplus2 ($4.41 in chips)
+Seat 6: Dealer ($5.45 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6h Td]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) won ($0.07)
+Seat 3: UTG showed
+Seat 4: Hero showed
+Seat 5: UTGplus2 showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434251117: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:00:12
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($2.45 in chips)
+Seat 2: Hero ($10.82 in chips)
+Seat 3: UTG ($5.26 in chips)
+Seat 4: UTGplus1 ($6.04 in chips)
+Seat 5: UTGplus2 ($3.48 in chips)
+Seat 6: Dealer ($4.11 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3c 6h]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Dealer: folds
+Small Blind: calls $0.13 
+Hero: folds
+*** FLOP *** [Ad 9s Kh]
+Small Blind: checks
+UTGplus2: checks
+*** TURN *** [Ad 9s Kh] [Kc]
+Small Blind: bets $0.10 
+UTGplus2: calls $0.10 
+*** RIVER *** [Ad 9s Kh Kc] [Ts]
+Small Blind: bets $0.10 
+UTGplus2: folds
+Uncalled bet ($0.10) returned to Small Blind
+Small Blind: doesn't show hand
+Small Blind collected $0.53 from pot
+Table leave user
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02
+Board [Ad 9s Kh Kc Ts]
+Seat 1: Small Blind (small blind) won ($0.53)
+Seat 2: Hero (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434251137: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:00:17
+Table '#952' 6-max Seat #2 is the button
+Seat 1: UTGplus2 ($3.21 in chips)
+Seat 2: Dealer ($5.26 in chips)
+Seat 3: Small Blind ($2.18 in chips)
+Seat 4: Big Blind ($4.11 in chips)
+Seat 5: Hero ($10.77 in chips)
+Seat 6: UTGplus1 ($10.50 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kc]
+Hero: raises $0.17 to $0.17
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus2 showed
+Seat 2: Dealer (button) showed
+Seat 3: Small Blind (small blind) showed
+Seat 4: Big Blind (big blind) showed
+Seat 5: Hero won ($0.12)
+Seat 6: UTGplus1 showed
+
+
+
+PokerStars Zoom Hand #3434251290: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:00:40
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($11.97 in chips)
+Seat 2: Hero ($10.84 in chips)
+Seat 3: Big Blind ($9.55 in chips)
+Seat 4: UTG ($5.30 in chips)
+Seat 5: UTGplus1 ($1.91 in chips)
+Seat 6: UTGplus2 ($2.65 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8h Ks]
+UTG: folds
+UTGplus1: raises $0.15 to $0.15
+UTGplus2: calls $0.15 
+Dealer: folds
+Hero: folds
+Big Blind: folds
+*** FLOP *** [Kd 2c Qs]
+UTGplus1: checks
+UTGplus2: bets $0.37 
+UTGplus1: calls $0.37 
+*** TURN *** [Kd 2c Qs] [6s]
+UTGplus1: checks
+UTGplus2: bets $0.55 
+UTGplus1: calls $0.55 
+*** RIVER *** [Kd 2c Qs 6s] [7d]
+UTGplus1: checks
+UTGplus2: bets $1.58 and is all-in
+UTGplus1: calls $0.84 and is all-in
+*** SHOW DOWN ***
+UTGplus2: shows [7h 8s] (a pair of Sevens)
+UTGplus1: shows [Ah Td] (High Card)
+Uncalled bet ($0.74) returned to UTGplus2
+UTGplus2 collected $3.7 from pot
+*** SUMMARY ***
+Total pot $3.89 | Rake $0.19
+Board [Kd 2c Qs 6s 7d]
+Seat 1: Dealer (button) showed
+Seat 2: Hero (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed [Ah Td]
+Seat 6: UTGplus2 showed [7h 8s] and won ($3.7) with a pair of Sevens
+
+
+
+PokerStars Zoom Hand #3434251336: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:00:48
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($5 in chips)
+Seat 2: UTGplus1 ($5.07 in chips)
+Seat 3: Hero ($10.82 in chips)
+Seat 4: Dealer ($10.81 in chips)
+Seat 5: Small Blind ($9.02 in chips)
+Seat 6: Big Blind ($2.45 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3c 9c]
+UTG: folds
+UTGplus1: raises $0.12 to $0.12
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: calls $0.07 
+*** FLOP *** [Kc 5c Js]
+Big Blind: checks
+UTGplus1: bets $0.18 
+Big Blind: folds
+Uncalled bet ($0.18) returned to UTGplus1
+UTGplus1: doesn't show hand
+UTGplus1 collected $0.25 from pot
+Table deposit $2.50 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01
+Board [Kc 5c Js]
+Seat 1: UTG showed
+Seat 2: UTGplus1 won ($0.25)
+Seat 3: Hero showed
+Seat 4: Dealer (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Big Blind (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434251375: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:00:53
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($4.23 in chips)
+Seat 2: Hero ($10.82 in chips)
+Seat 3: UTGplus1 ($10.81 in chips)
+Seat 4: UTGplus2 ($5.59 in chips)
+Seat 5: Dealer ($4.26 in chips)
+Seat 6: Small Blind ($5.06 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9h Qc]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+Table leave user
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Big Blind (big blind) won ($0.07)
+Seat 2: Hero showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434251420: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:01:00
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Hero ($10.82 in chips)
+Seat 2: Big Blind ($5.48 in chips)
+Seat 3: UTG ($3.80 in chips)
+Seat 4: UTGplus1 ($5 in chips)
+Seat 5: UTGplus2 ($29.66 in chips)
+Seat 6: Dealer ($5.37 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3h Qd]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Hero: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Hero (small blind) showed
+Seat 2: Big Blind (big blind) won ($0.07)
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434251443: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:01:04
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($6.14 in chips)
+Seat 2: UTGplus1 ($11.80 in chips)
+Seat 3: UTGplus2 ($29.66 in chips)
+Seat 4: Dealer ($5 in chips)
+Seat 5: Small Blind ($3.80 in chips)
+Seat 6: Hero ($10.80 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9h Kh]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.20 to $0.20
+Small Blind: folds
+Hero: calls $0.15 
+*** FLOP *** [2h Tc Jc]
+Hero: checks
+Dealer: checks
+*** TURN *** [2h Tc Jc] [Ts]
+Hero: checks
+Dealer: checks
+*** RIVER *** [2h Tc Jc Ts] [7s]
+Hero: checks
+Dealer: checks
+*** SHOW DOWN ***
+Hero: shows [9h Kh] (a pair of Tens)
+Dealer: shows [As 5s] (a pair of Tens)
+Dealer collected $0.4 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02
+Board [2h Tc Jc Ts 7s]
+Seat 1: UTG showed
+Seat 2: UTGplus1 showed
+Seat 3: UTGplus2 showed
+Seat 4: Dealer (button) showed [As 5s] and won ($0.4) with a pair of Tens
+Seat 5: Small Blind (small blind) showed
+Seat 6: Hero (big blind) showed [9h Kh] and lost with a pair of Tens
+
+
+
+PokerStars Zoom Hand #3434251781: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:01:54
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($5.76 in chips)
+Seat 2: UTG ($11.27 in chips)
+Seat 3: UTGplus1 ($5.20 in chips)
+Seat 4: Hero ($10.60 in chips)
+Seat 5: Dealer ($6.01 in chips)
+Seat 6: Small Blind ($6.06 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2d 7s]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: raises $0.17 to $0.17
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: Hero showed
+Seat 5: Dealer (button) won ($0.12)
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434251817: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:01:59
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($6.69 in chips)
+Seat 2: UTG ($6.01 in chips)
+Seat 3: UTGplus1 ($2.45 in chips)
+Seat 4: UTGplus2 ($5.20 in chips)
+Seat 5: Hero ($10.60 in chips)
+Seat 6: Small Blind ($5.51 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7h Ad]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: raises $0.17 to $0.17
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Hero (button) won ($0.12)
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434251989: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:02:25
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($5.49 in chips)
+Seat 2: Small Blind ($2.60 in chips)
+Seat 3: Big Blind ($2.66 in chips)
+Seat 4: UTG ($7.68 in chips)
+Seat 5: Hero ($10.67 in chips)
+Seat 6: UTGplus2 ($5.83 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6h Jd]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: folds
+Big Blind: calls $0.10 
+*** FLOP *** [4d 3c Ac]
+Big Blind: checks
+Dealer: bets $0.16 
+Big Blind: folds
+Uncalled bet ($0.16) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [4d 3c Ac]
+Seat 1: Dealer (button) won ($0.31)
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG showed
+Seat 5: Hero showed
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434252029: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:02:31
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($8.51 in chips)
+Seat 2: Big Blind ($2.45 in chips)
+Seat 3: UTG ($5.57 in chips)
+Seat 4: UTGplus1 ($8.61 in chips)
+Seat 5: Hero ($10.67 in chips)
+Seat 6: Dealer ($5.83 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7c 3c]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: calls $0.03 
+Big Blind: raises $0.15 to $0.20
+Small Blind: calls $0.15 
+*** FLOP *** [4h 5h 5d]
+Small Blind: checks
+Big Blind: checks
+*** TURN *** [4h 5h 5d] [3d]
+Small Blind: checks
+Big Blind: checks
+*** RIVER *** [4h 5h 5d 3d] [9d]
+Small Blind: checks
+Big Blind: bets $0.25 
+Small Blind: folds
+Uncalled bet ($0.25) returned to Big Blind
+Big Blind: doesn't show hand
+Big Blind collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.4 | Rake $0.02
+Board [4h 5h 5d 3d 9d]
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) won ($0.38)
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: Hero showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434252055: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:02:35
+Table '#952' 6-max Seat #2 is the button
+Seat 1: UTGplus2 ($7.40 in chips)
+Seat 2: Dealer ($4.43 in chips)
+Seat 3: Small Blind ($2.47 in chips)
+Seat 4: Big Blind ($6.06 in chips)
+Seat 5: UTG ($4.82 in chips)
+Seat 6: Hero ($10.67 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3d Ad]
+UTG: calls $0.05 
+Hero: calls $0.05 
+UTGplus2: folds
+Dealer: calls $0.05 
+Small Blind: folds
+Big Blind: checks
+*** FLOP *** [2d 5d Jc]
+Big Blind: checks
+UTG: checks
+Hero: bets $0.16 
+Dealer: raises $0.32 to $0.32
+Big Blind: folds
+UTG: folds
+Hero: calls $0.16 
+*** TURN *** [2d 5d Jc] [9s]
+Hero: checks
+Dealer: checks 
+*** RIVER *** [2d 5d Jc 9s] [5s]
+Hero: bets $0.58 
+Dealer: folds (disconnect)
+Uncalled bet ($0.58) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.04
+Board [2d 5d Jc 9s 5s]
+Seat 1: UTGplus2 showed
+Seat 2: Dealer (button) showed
+Seat 3: Small Blind (small blind) showed
+Seat 4: Big Blind (big blind) showed
+Seat 5: UTG showed
+Seat 6: Hero won ($0.82)
+
+
+
+PokerStars Zoom Hand #3434252789: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:04:24
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Hero ($11.12 in chips)
+Seat 2: Big Blind ($5 in chips)
+Seat 3: UTG ($10.88 in chips)
+Seat 4: UTGplus1 ($5.11 in chips)
+Seat 5: UTGplus2 ($4.91 in chips)
+Seat 6: Dealer ($5.43 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8h Ks]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Hero: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Hero (small blind) showed
+Seat 2: Big Blind (big blind) won ($0.07)
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434252865: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:04:33
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($4.95 in chips)
+Seat 2: UTGplus2 ($4.80 in chips)
+Seat 3: Dealer ($7.52 in chips)
+Seat 4: Small Blind ($5.89 in chips)
+Seat 5: Hero ($11.10 in chips)
+Seat 6: UTG ($5.20 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4s Jc]
+UTG: folds
+UTGplus1: raises $0.15 to $0.15
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Hero: folds
+Uncalled bet ($0.10) returned to UTGplus1
+UTGplus1: doesn't show hand
+UTGplus1 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 won ($0.12)
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Hero (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434252898: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:04:38
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Hero ($11.05 in chips)
+Seat 2: Small Blind ($4.91 in chips)
+Seat 3: Big Blind ($12.98 in chips)
+Seat 4: UTG ($5.59 in chips)
+Seat 5: UTGplus1 ($4.65 in chips)
+Seat 6: UTGplus2 ($4.89 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2d 6d]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Hero (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) won ($0.07)
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434252931: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:04:42
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($4.45 in chips)
+Seat 2: Small Blind ($5.29 in chips)
+Seat 3: Big Blind ($5.59 in chips)
+Seat 4: UTG ($5.87 in chips)
+Seat 5: Hero ($11.05 in chips)
+Seat 6: UTGplus2 ($4.89 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9c 8s]
+UTG: folds
+Hero: raises $0.17 to $0.17
+UTGplus2: folds
+Dealer: calls $0.17 
+Small Blind: calls $0.15 
+Big Blind: folds
+*** FLOP *** [9h 7s 5d]
+Small Blind: checks
+Hero: bets $0.33 
+Dealer: calls $0.33 
+Small Blind: folds
+*** TURN *** [9h 7s 5d] [8c]
+Hero: bets $0.76 
+Dealer: calls $0.76 
+*** RIVER *** [9h 7s 5d 8c] [4c]
+Hero: checks
+Dealer: checks
+*** SHOW DOWN ***
+Hero: shows [9c 8s] (two pair, Nines and Sevens)
+Dealer: shows [Js 9d] (One pair)
+Hero collected $2.61 from pot
+Table leave user
+Seat re-join
+*** SUMMARY ***
+Total pot $2.74 | Rake $0.13
+Board [9h 7s 5d 8c 4c]
+Seat 1: Dealer (button) showed [Js 9d]
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG showed
+Seat 5: Hero showed [9c 8s] and won ($2.61) with two pair, Nines and Sevens
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434253427: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:05:55
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($18.03 in chips)
+Seat 2: Big Blind ($6.99 in chips)
+Seat 3: UTG ($4.98 in chips)
+Seat 4: UTGplus1 ($5.14 in chips)
+Seat 5: UTGplus2 ($3.19 in chips)
+Seat 6: Hero ($12.40 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8s 7h]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: raises $0.17 to $0.17
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 showed
+Seat 6: Hero (button) won ($0.12)
+
+
+
+PokerStars Zoom Hand #3434253629: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:06:23
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($4.40 in chips)
+Seat 2: Hero ($12.47 in chips)
+Seat 3: Big Blind ($10.60 in chips)
+Seat 4: UTG ($4.51 in chips)
+Seat 5: UTGplus1 ($4.93 in chips)
+Seat 6: UTGplus2 ($8.11 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3d Qs]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Dealer: folds
+Hero: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.12 from pot
+Table deposit $5 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Dealer (button) showed
+Seat 2: Hero (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 won ($0.12)
+
+
+
+PokerStars Zoom Hand #3434253727: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:06:35
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($5.32 in chips)
+Seat 2: UTG ($5.65 in chips)
+Seat 3: UTGplus1 ($7.32 in chips)
+Seat 4: UTGplus2 ($5 in chips)
+Seat 5: Dealer ($2.26 in chips)
+Seat 6: Hero ($12.45 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qd 4d]
+UTG: folds
+UTGplus1: folds
+UTGplus2: calls $0.05 
+Dealer: folds
+Hero: folds
+Big Blind: checks
+*** FLOP *** [Ac 3h 7h]
+Big Blind: checks
+UTGplus2: checks
+*** TURN *** [Ac 3h 7h] [3c]
+Big Blind: bets $0.15 
+UTGplus2: calls $0.15 
+*** RIVER *** [Ac 3h 7h 3c] [Qc]
+Big Blind: bets $0.25 
+UTGplus2: calls $0.25 
+*** SHOW DOWN ***
+Big Blind: shows [Ad 2h] (two pair, Aces and Queens)
+UTGplus2: shows [6h Ah] (two pair, Aces and Queens)
+Big Blind collected $0.44 from pot
+UTGplus2 collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.04
+Board [Ac 3h 7h 3c Qc]
+Seat 1: Big Blind (big blind) showed [Ad 2h] and won ($0.44) with two pair, Aces and Queens
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed [6h Ah] and won ($0.44) with two pair, Aces and Queens
+Seat 5: Dealer (button) showed
+Seat 6: Hero (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434253758: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:06:40
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($10.07 in chips)
+Seat 2: Small Blind ($4.33 in chips)
+Seat 3: Big Blind ($3.97 in chips)
+Seat 4: Hero ($12.43 in chips)
+Seat 5: UTGplus1 ($5.65 in chips)
+Seat 6: UTGplus2 ($9.77 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8d 2c]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: calls $0.05 
+Small Blind: folds
+Big Blind: checks
+*** FLOP *** [Td 4c 7d]
+Big Blind: checks
+Dealer: checks
+*** TURN *** [Td 4c 7d] [6h]
+Big Blind: checks
+Dealer: checks
+*** RIVER *** [Td 4c 7d 6h] [Qd]
+Big Blind: checks
+Dealer: bets $0.05 
+Big Blind: folds
+Uncalled bet ($0.05) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Board [Td 4c 7d 6h Qd]
+Seat 1: Dealer (button) won ($0.12)
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: Hero showed
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434253797: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:06:46
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($7.13 in chips)
+Seat 2: UTGplus1 ($6.94 in chips)
+Seat 3: UTGplus2 ($3.04 in chips)
+Seat 4: Dealer ($6.03 in chips)
+Seat 5: Small Blind ($5.65 in chips)
+Seat 6: Hero ($12.43 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3h Th]
+UTG: raises $0.15 to $0.15
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Hero: folds
+Uncalled bet ($0.10) returned to UTG
+UTG: doesn't show hand
+UTG collected $0.12 from pot
+Table deposit $5 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTG won ($0.12)
+Seat 2: UTGplus1 showed
+Seat 3: UTGplus2 showed
+Seat 4: Dealer (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Hero (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434253836: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:06:51
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($5.30 in chips)
+Seat 2: UTGplus2 ($6.94 in chips)
+Seat 3: Dealer ($4.31 in chips)
+Seat 4: Small Blind ($10.58 in chips)
+Seat 5: Big Blind ($11.81 in chips)
+Seat 6: Hero ($12.38 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6s 5d]
+Hero: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.12 from pot
+Table leave user
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 won ($0.12)
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: Hero showed
+
+
+
+PokerStars Zoom Hand #3434253877: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:06:58
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($5.37 in chips)
+Seat 2: Big Blind ($9.77 in chips)
+Seat 3: UTG ($5.63 in chips)
+Seat 4: Hero ($12.38 in chips)
+Seat 5: UTGplus2 ($5.84 in chips)
+Seat 6: Dealer ($17.94 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9h 2h]
+UTG: folds
+Hero: folds
+UTGplus2: calls $0.05 
+Dealer: folds
+Small Blind: folds
+Big Blind: checks
+*** FLOP *** [Th Ks 2c]
+Big Blind: checks
+UTGplus2: bets $0.05 
+Big Blind: folds
+Uncalled bet ($0.05) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Board [Th Ks 2c]
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: Hero showed
+Seat 5: UTGplus2 won ($0.12)
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434253921: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:07:04
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($5.31 in chips)
+Seat 2: Small Blind ($5.42 in chips)
+Seat 3: Big Blind ($5 in chips)
+Seat 4: UTG ($7.89 in chips)
+Seat 5: UTGplus1 ($7.20 in chips)
+Seat 6: Hero ($12.38 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4c Tc]
+UTG: raises $0.20 to $0.20
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: raises $0.30 to $0.35
+UTG: calls $0.15 
+*** FLOP *** [8h 7s Kh]
+Big Blind: bets $0.36 
+UTG: calls $0.36 
+*** TURN *** [8h 7s Kh] [3d]
+Big Blind: checks
+UTG: checks
+*** RIVER *** [8h 7s Kh 3d] [7h]
+Big Blind: bets $0.72 
+UTG: calls $0.72 
+*** SHOW DOWN ***
+Big Blind: shows [Qc Qh] (two pair, Queens and Kings)
+UTG: shows [8d Td] (Two pair)
+Big Blind collected $2.74 from pot
+*** SUMMARY ***
+Total pot $2.88 | Rake $0.14
+Board [8h 7s Kh 3d 7h]
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed [Qc Qh] and won ($2.74) with two pair, Queens and Kings
+Seat 4: UTG showed [8d Td]
+Seat 5: UTGplus1 showed
+Seat 6: Hero showed
+
+
+
+PokerStars Zoom Hand #3434254000: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:07:14
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($5.16 in chips)
+Seat 2: Small Blind ($5.40 in chips)
+Seat 3: Big Blind ($30.59 in chips)
+Seat 4: Hero ($12.38 in chips)
+Seat 5: UTGplus1 ($3.08 in chips)
+Seat 6: UTGplus2 ($3.55 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4c Ks]
+Hero: folds
+UTGplus1: raises $0.15 to $0.15
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: calls $0.10 
+*** FLOP *** [Qd Td 8c]
+Big Blind: checks
+UTGplus1: bets $0.20 
+Big Blind: calls $0.20 
+*** TURN *** [Qd Td 8c] [Qs]
+Big Blind: checks
+UTGplus1: checks
+*** RIVER *** [Qd Td 8c Qs] [7d]
+Big Blind: checks
+UTGplus1: bets $0.93 
+Big Blind: folds
+Uncalled bet ($0.93) returned to UTGplus1
+UTGplus1: doesn't show hand
+UTGplus1 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [Qd Td 8c Qs 7d]
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: Hero showed
+Seat 5: UTGplus1 won ($0.69)
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434254036: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:07:19
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($7.01 in chips)
+Seat 2: Small Blind ($5.30 in chips)
+Seat 3: Big Blind ($6.34 in chips)
+Seat 4: Hero ($12.38 in chips)
+Seat 5: UTGplus1 ($4.59 in chips)
+Seat 6: UTGplus2 ($3.55 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3s Jd]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) won ($0.07)
+Seat 4: Hero showed
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434254063: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:07:23
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($6.14 in chips)
+Seat 2: Big Blind ($4.99 in chips)
+Seat 3: UTG ($4.96 in chips)
+Seat 4: UTGplus1 ($10.58 in chips)
+Seat 5: UTGplus2 ($3.55 in chips)
+Seat 6: Hero ($12.38 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7d As]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Hero: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: UTGplus2 won ($0.12)
+Seat 6: Hero (button) showed
+
+
+
+PokerStars Zoom Hand #3434254158: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:07:38
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($2.01 in chips)
+Seat 2: Hero ($12.38 in chips)
+Seat 3: UTGplus1 ($5.28 in chips)
+Seat 4: UTGplus2 ($2.28 in chips)
+Seat 5: Dealer ($5.65 in chips)
+Seat 6: Small Blind ($6.36 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9c 6c]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Big Blind (big blind) won ($0.07)
+Seat 2: Hero showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434254213: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:07:45
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($3.41 in chips)
+Seat 2: UTGplus1 ($3.77 in chips)
+Seat 3: UTGplus2 ($3.62 in chips)
+Seat 4: Dealer ($5.32 in chips)
+Seat 5: Small Blind ($12.18 in chips)
+Seat 6: Hero ($12.38 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4d Ad]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Dealer: folds
+Small Blind: folds
+Hero: calls $0.10 
+*** FLOP *** [Kd Qs Js]
+Hero: checks
+UTGplus2: bets $0.32 
+Hero: calls $0.32 
+*** TURN *** [Kd Qs Js] [8h]
+Hero: checks
+UTGplus2: bets $0.96 
+Hero: folds
+Uncalled bet ($0.96) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.04
+Board [Kd Qs Js 8h]
+Seat 1: UTG showed
+Seat 2: UTGplus1 showed
+Seat 3: UTGplus2 won ($0.92)
+Seat 4: Dealer (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Hero (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434254591: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:08:36
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($5.14 in chips)
+Seat 2: UTGplus2 ($9.53 in chips)
+Seat 3: Dealer ($7.12 in chips)
+Seat 4: Small Blind ($1.63 in chips)
+Seat 5: Big Blind ($5.30 in chips)
+Seat 6: Hero ($11.91 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Tc 2s]
+Hero: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: calls $0.13 
+Big Blind: folds
+*** FLOP *** [4c Qd Qs]
+Small Blind: checks
+Dealer: checks
+*** TURN *** [4c Qd Qs] [4s]
+Small Blind: checks
+Dealer: checks
+*** RIVER *** [4c Qd Qs 4s] [Kh]
+Small Blind: checks
+Dealer: bets $6.97 and is all-in
+Small Blind: folds
+Uncalled bet ($6.97) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01
+Board [4c Qd Qs 4s Kh]
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) won ($0.34)
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: Hero showed
+
+
+
+PokerStars Zoom Hand #3434254617: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:08:40
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($6.67 in chips)
+Seat 2: UTGplus2 ($4.88 in chips)
+Seat 3: Dealer ($4.91 in chips)
+Seat 4: Small Blind ($4.06 in chips)
+Seat 5: Big Blind ($5.14 in chips)
+Seat 6: Hero ($11.91 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [5d 5h]
+Hero: raises $0.17 to $0.17
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: calls $0.12 
+*** FLOP *** [Tc 4h 3d]
+Big Blind: checks
+Hero: bets $0.23 
+Big Blind: calls $0.23 
+*** TURN *** [Tc 4h 3d] [As]
+Big Blind: checks
+Hero: checks
+*** RIVER *** [Tc 4h 3d As] [6s]
+Big Blind: bets $0.25 
+Hero: calls $0.25 
+*** SHOW DOWN ***
+Big Blind: shows [Ah Ac] (three of a kind, Aces)
+Hero: shows [5d 5h] (One pair)
+Big Blind collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.06
+Board [Tc 4h 3d As 6s]
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed [Ah Ac] and won ($1.26) with three of a kind, Aces
+Seat 6: Hero showed [5d 5h]
+
+
+
+PokerStars Zoom Hand #3434255071: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:09:41
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($6.62 in chips)
+Seat 2: Small Blind ($2.43 in chips)
+Seat 3: Big Blind ($5.83 in chips)
+Seat 4: UTG ($5.75 in chips)
+Seat 5: Hero ($11.26 in chips)
+Seat 6: UTGplus2 ($6.13 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4h 4c]
+UTG: folds
+Hero: raises $0.17 to $0.17
+UTGplus2: folds
+Dealer: folds (auth)
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Dealer: Table leave user
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG showed
+Seat 5: Hero won ($0.12)
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434255187: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:09:58
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($12.30 in chips)
+Seat 2: UTG ($10.41 in chips)
+Seat 3: Hero ($11.33 in chips)
+Seat 4: UTGplus2 ($5.72 in chips)
+Seat 5: Dealer ($29.54 in chips)
+Seat 6: Small Blind ($1.60 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [As 4c]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Big Blind (big blind) won ($0.07)
+Seat 2: UTG showed
+Seat 3: Hero showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434255245: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:10:06
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($4.02 in chips)
+Seat 2: UTG ($4.46 in chips)
+Seat 3: UTGplus1 ($3.17 in chips)
+Seat 4: Hero ($11.33 in chips)
+Seat 5: Dealer ($4.81 in chips)
+Seat 6: Small Blind ($4.93 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jc Kc]
+UTG: folds
+UTGplus1: calls $0.05 
+Hero: raises $0.22 to $0.22
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+UTGplus1: folds
+Uncalled bet ($0.17) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.17 from pot
+Table deposit $5 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: Hero won ($0.17)
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434255457: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:10:34
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($4.79 in chips)
+Seat 2: UTGplus1 ($3.97 in chips)
+Seat 3: UTGplus2 ($2.56 in chips)
+Seat 4: Dealer ($7.43 in chips)
+Seat 5: Small Blind ($9.24 in chips)
+Seat 6: Hero ($11.45 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9h Ah]
+UTG: raises $0.15 to $0.15
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Hero: calls $0.10 
+*** FLOP *** [5s Kh 8s]
+Hero: checks
+UTG: bets $0.20 
+Hero: folds
+Uncalled bet ($0.20) returned to UTG
+UTG: doesn't show hand
+UTG collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [5s Kh 8s]
+Seat 1: UTG won ($0.31)
+Seat 2: UTGplus1 showed
+Seat 3: UTGplus2 showed
+Seat 4: Dealer (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Hero (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434255644: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:11:01
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($11.22 in chips)
+Seat 2: UTGplus2 ($4.94 in chips)
+Seat 3: Dealer ($5.65 in chips)
+Seat 4: Small Blind ($5 in chips)
+Seat 5: Big Blind ($5.39 in chips)
+Seat 6: Hero ($11.30 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jc Qc]
+Hero: raises $0.17 to $0.17
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: Hero won ($0.12)
+
+
+
+PokerStars Zoom Hand #3434255790: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:11:21
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($10.89 in chips)
+Seat 2: Small Blind ($2.59 in chips)
+Seat 3: Big Blind ($4.68 in chips)
+Seat 4: UTG ($9.78 in chips)
+Seat 5: UTGplus1 ($6.06 in chips)
+Seat 6: Hero ($11.37 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jd Qd]
+UTG: folds
+UTGplus1: folds
+Hero: raises $0.17 to $0.17
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Dealer (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: Hero won ($0.12)
+
+
+
+PokerStars Zoom Hand #3434255970: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:11:45
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($2.59 in chips)
+Seat 2: UTGplus2 ($3.08 in chips)
+Seat 3: Dealer ($12.30 in chips)
+Seat 4: Hero ($11.44 in chips)
+Seat 5: Big Blind ($10.79 in chips)
+Seat 6: UTG ($3.26 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [As 8c]
+UTG: folds
+UTGplus1: raises $0.10 to $0.10
+UTGplus2: calls $0.10 
+Dealer: folds
+Hero: calls $0.08 
+Big Blind: calls $0.05 
+*** FLOP *** [3s 6s Ts]
+Hero: checks
+Big Blind: checks
+UTGplus1: checks
+UTGplus2: bets $0.15 
+Hero: calls $0.15 
+Big Blind: folds
+UTGplus1: folds
+*** TURN *** [3s 6s Ts] [6d]
+Hero: checks
+UTGplus2: bets $0.25 
+Hero: calls $0.25 
+*** RIVER *** [3s 6s Ts 6d] [7s]
+Hero: bets $1.20 
+UTGplus2: folds
+Uncalled bet ($1.20) returned to Hero
+Hero: doesn't show hand
+Hero collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.2 | Rake $0.06
+Board [3s 6s Ts 6d 7s]
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Hero (small blind) won ($1.14)
+Seat 5: Big Blind (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434256549: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:13:02
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($6.65 in chips)
+Seat 2: Hero ($12.08 in chips)
+Seat 3: Dealer ($10.13 in chips)
+Seat 4: Small Blind ($6.33 in chips)
+Seat 5: Big Blind ($5.03 in chips)
+Seat 6: UTG ($3.89 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Jc 5d]
+UTG: folds
+UTGplus1: raises $0.15 to $0.15
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to UTGplus1
+UTGplus1: doesn't show hand
+UTGplus1 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 won ($0.12)
+Seat 2: Hero showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434256615: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:13:09
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Hero ($12.08 in chips)
+Seat 2: UTG ($3.88 in chips)
+Seat 3: UTGplus1 ($12.39 in chips)
+Seat 4: UTGplus2 ($2.83 in chips)
+Seat 5: Dealer ($7.06 in chips)
+Seat 6: Small Blind ($3.01 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7h Ah]
+UTG: raises $0.15 to $0.15
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: calls $0.13 
+Hero: calls $0.10 
+*** FLOP *** [6c 2s 3d]
+Small Blind: checks
+Hero: checks
+UTG: checks
+*** TURN *** [6c 2s 3d] [9s]
+Small Blind: checks
+Hero: checks
+UTG: checks
+*** RIVER *** [6c 2s 3d 9s] [2c]
+Small Blind: checks
+Hero: checks
+UTG: checks
+*** SHOW DOWN ***
+Small Blind: shows [Ts As] (a pair of Deuces)
+Hero: shows [7h Ah] (One pair)
+UTG: shows [Ad Qc] (a pair of Deuces)
+UTG collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02
+Board [6c 2s 3d 9s 2c]
+Seat 1: Hero (big blind) showed [7h Ah]
+Seat 2: UTG showed [Ad Qc] and won ($0.43) with a pair of Deuces
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed [Ts As] and lost with a pair of Deuces
+
+
+
+PokerStars Zoom Hand #3434257104: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:14:14
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($4.76 in chips)
+Seat 2: UTG ($2.76 in chips)
+Seat 3: UTGplus1 ($5 in chips)
+Seat 4: UTGplus2 ($3.88 in chips)
+Seat 5: Dealer ($5.16 in chips)
+Seat 6: Hero ($11.93 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [2d 5c]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Hero: folds
+*** SHOW DOWN ***
+Big Blind: shows [5h Td] (high card Five)
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Big Blind (big blind) collected $0.02
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Hero (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434257230: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:14:30
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($3.36 in chips)
+Seat 2: Hero ($11.91 in chips)
+Seat 3: Dealer ($5.16 in chips)
+Seat 4: Small Blind ($9.29 in chips)
+Seat 5: Big Blind ($3.85 in chips)
+Seat 6: UTG ($17.85 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [As 2h]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: calls $0.13 
+Big Blind: calls $0.10 
+*** FLOP *** [Ts 7s 8c]
+Small Blind: bets $0.22 
+Big Blind: calls $0.22 
+Dealer: calls $0.22 
+*** TURN *** [Ts 7s 8c] [Tc]
+Small Blind: checks
+Big Blind: checks
+Dealer: bets $0.70 
+Small Blind: calls $0.70 
+Big Blind: folds
+*** RIVER *** [Ts 7s 8c Tc] [Js]
+Small Blind: checks
+Dealer: bets $1.90 
+Small Blind: folds
+Uncalled bet ($1.90) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $2.39 from pot
+Table deposit $2.50 
+*** SUMMARY ***
+Total pot $2.51 | Rake $0.12
+Board [Ts 7s 8c Tc Js]
+Seat 1: UTGplus1 showed
+Seat 2: Hero showed
+Seat 3: Dealer (button) won ($2.39)
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434257270: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:14:35
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($4.74 in chips)
+Seat 2: UTGplus2 ($6.46 in chips)
+Seat 3: Hero ($11.91 in chips)
+Seat 4: Small Blind ($6.09 in chips)
+Seat 5: Big Blind ($9.96 in chips)
+Seat 6: UTG ($6.14 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3h As]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: folds
+Small Blind: raises $0.13 to $0.15
+Big Blind: calls $0.10 
+*** FLOP *** [7h Ad Jd]
+Small Blind: bets $0.30 
+Big Blind: calls $0.30 
+*** TURN *** [7h Ad Jd] [4s]
+Small Blind: bets $0.90 
+Big Blind: calls $0.90 
+*** RIVER *** [7h Ad Jd 4s] [Ks]
+Small Blind: checks
+Big Blind: checks
+*** SHOW DOWN ***
+Small Blind: shows [Jc Jh] (three of a kind, Jacks)
+Big Blind: shows [Ah Qc] (One pair)
+Small Blind collected $2.57 from pot
+*** SUMMARY ***
+Total pot $2.7 | Rake $0.13
+Board [7h Ad Jd 4s Ks]
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Hero (button) showed
+Seat 4: Small Blind (small blind) showed [Jc Jh] and won ($2.57) with three of a kind, Jacks
+Seat 5: Big Blind (big blind) showed [Ah Qc]
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434257312: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:14:42
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Hero ($11.91 in chips)
+Seat 2: UTG ($3.36 in chips)
+Seat 3: UTGplus1 ($6.44 in chips)
+Seat 4: UTGplus2 ($2.41 in chips)
+Seat 5: Dealer ($2.12 in chips)
+Seat 6: Small Blind ($3.58 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9c Ks]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: calls $0.05 
+Small Blind: calls $0.03 
+Hero: checks
+*** FLOP *** [4c 3d 4s]
+Small Blind: checks
+Hero: checks
+Dealer: bets $0.15 
+Small Blind: folds
+Hero: folds
+*** SHOW DOWN ***
+Dealer: shows [Kh 3c] (two pair, Fours and Kings)
+Uncalled bet ($0.15) returned to Dealer
+Dealer collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.00
+Board [4c 3d 4s]
+Seat 1: Hero (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed [Kh 3c] and won ($0.15) with two pair, Fours and Kings
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434257472: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:15:04
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($3.81 in chips)
+Seat 2: UTG ($10.13 in chips)
+Seat 3: UTGplus1 ($11.26 in chips)
+Seat 4: UTGplus2 ($5.33 in chips)
+Seat 5: Hero ($11.86 in chips)
+Seat 6: Small Blind ($6.98 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [9c Ac]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: raises $0.17 to $0.17
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Hero (button) won ($0.12)
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434257646: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:15:30
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($4.93 in chips)
+Seat 2: UTGplus2 ($5.89 in chips)
+Seat 3: Hero ($11.93 in chips)
+Seat 4: Small Blind ($5.28 in chips)
+Seat 5: Big Blind ($2.22 in chips)
+Seat 6: UTG ($3.48 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ad 2c]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Hero: raises $0.17 to $0.17
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+Table leave user
+Table deposit $3 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Hero (button) won ($0.12)
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434257775: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:15:49
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($2.42 in chips)
+Seat 2: Hero ($12 in chips)
+Seat 3: UTGplus2 ($5.15 in chips)
+Seat 4: Dealer ($2.86 in chips)
+Seat 5: Small Blind ($9.78 in chips)
+Seat 6: Big Blind ($4.65 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ks 4d]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: raises $0.08 to $0.10
+Big Blind: calls $0.05 
+*** FLOP *** [Ah Jc Jd]
+Small Blind: checks
+Big Blind: checks
+*** TURN *** [Ah Jc Jd] [8h]
+Small Blind: checks
+Big Blind: bets $0.10 
+Small Blind: calls $0.10 
+*** RIVER *** [Ah Jc Jd 8h] [5c]
+Small Blind: checks
+Big Blind: bets $0.20 
+Small Blind: folds
+Uncalled bet ($0.20) returned to Big Blind
+Big Blind: doesn't show hand
+Big Blind collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.4 | Rake $0.02
+Board [Ah Jc Jd 8h 5c]
+Seat 1: UTG showed
+Seat 2: Hero showed
+Seat 3: UTGplus2 showed
+Seat 4: Dealer (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Big Blind (big blind) won ($0.38)
+
+
+
+PokerStars Zoom Hand #3434257827: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:15:56
+Table '#952' 6-max Seat #3 is the button
+Seat 1: Hero ($12 in chips)
+Seat 2: UTGplus2 ($2.15 in chips)
+Seat 3: Dealer ($5.43 in chips)
+Seat 4: Small Blind ($6.89 in chips)
+Seat 5: Big Blind ($3.48 in chips)
+Seat 6: UTG ($4.75 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7s 3d]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: raises $0.10 to $0.10
+Small Blind: raises $0.33 to $0.35
+Big Blind: calls $0.30 
+Dealer: calls $0.25 
+*** FLOP *** [Kh Ks 5c]
+Small Blind: checks
+Big Blind: checks
+Dealer: checks
+*** TURN *** [Kh Ks 5c] [8c]
+Small Blind: bets $0.52 
+Big Blind: folds
+Dealer: folds
+Uncalled bet ($0.52) returned to Small Blind
+Small Blind: doesn't show hand
+Small Blind collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05
+Board [Kh Ks 5c 8c]
+Seat 1: Hero showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) won ($1)
+Seat 5: Big Blind (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434257882: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:16:04
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($8.59 in chips)
+Seat 2: UTGplus1 ($3.08 in chips)
+Seat 3: UTGplus2 ($2.73 in chips)
+Seat 4: Hero ($12 in chips)
+Seat 5: Small Blind ($3.82 in chips)
+Seat 6: Big Blind ($6.69 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [8s 3h]
+UTG: folds
+UTGplus1: calls $0.05 
+UTGplus2: raises $0.22 to $0.22
+Hero: folds
+Small Blind: folds
+Big Blind: folds
+UTGplus1: calls $0.17 
+*** FLOP *** [5h 7c 4d]
+UTGplus1: checks
+UTGplus2: bets $0.51 
+UTGplus1: folds
+Uncalled bet ($0.51) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02
+Board [5h 7c 4d]
+Seat 1: UTG showed
+Seat 2: UTGplus1 showed
+Seat 3: UTGplus2 won ($0.49)
+Seat 4: Hero (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Big Blind (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434257920: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:16:10
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($5.13 in chips)
+Seat 2: UTG ($7.21 in chips)
+Seat 3: Hero ($12 in chips)
+Seat 4: UTGplus2 ($3.80 in chips)
+Seat 5: Dealer ($2.15 in chips)
+Seat 6: Small Blind ($6.21 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [6d 8d]
+UTG: folds
+Hero: raises $0.17 to $0.17
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Big Blind: Table leave user
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: Hero won ($0.12)
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434258131: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:16:39
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($2.88 in chips)
+Seat 2: UTGplus2 ($3.05 in chips)
+Seat 3: Dealer ($5.12 in chips)
+Seat 4: Small Blind ($2.38 in chips)
+Seat 5: Hero ($12.07 in chips)
+Seat 6: UTG ($7.41 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3d Ac]
+UTG: folds
+UTGplus1: folds
+UTGplus2: raises $0.15 to $0.15
+Dealer: folds
+Small Blind: folds
+Hero: folds
+Uncalled bet ($0.10) returned to UTGplus2
+UTGplus2: doesn't show hand
+UTGplus2 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 won ($0.12)
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Hero (big blind) showed
+Seat 6: UTG showed
+
+
+
+PokerStars Zoom Hand #3434258222: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:16:50
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Hero ($12.02 in chips)
+Seat 2: Small Blind ($5.12 in chips)
+Seat 3: Big Blind ($6.12 in chips)
+Seat 4: UTG ($7.79 in chips)
+Seat 5: UTGplus1 ($4.83 in chips)
+Seat 6: UTGplus2 ($5.08 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [4d Ks]
+UTG: raises $0.15 to $0.15
+UTGplus1: calls $0.15 
+UTGplus2: folds
+Hero: folds
+Small Blind: folds
+Big Blind: calls $0.10 
+*** FLOP *** [Th Td Qd]
+Big Blind: checks
+UTG: bets $0.23 
+UTGplus1: calls $0.23 
+Big Blind: folds
+*** TURN *** [Th Td Qd] [Tc]
+UTG: bets $0.93 
+UTGplus1: folds
+Uncalled bet ($0.93) returned to UTG
+UTG: doesn't show hand
+UTG collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.04
+Board [Th Td Qd Tc]
+Seat 1: Hero (button) showed
+Seat 2: Small Blind (small blind) showed
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG won ($0.89)
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434258271: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:16:57
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Hero ($12.02 in chips)
+Seat 2: Big Blind ($4.91 in chips)
+Seat 3: UTG ($2.83 in chips)
+Seat 4: UTGplus1 ($2.81 in chips)
+Seat 5: UTGplus2 ($9.53 in chips)
+Seat 6: Dealer ($8.21 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qs 5d]
+UTG: raises $0.15 to $0.15
+UTGplus1: calls $0.15 
+UTGplus2: folds
+Dealer: folds
+Hero: folds
+Big Blind: calls $0.10 
+*** FLOP *** [8c 4s 6s]
+Big Blind: checks
+UTG: bets $0.20 
+UTGplus1: calls $0.20 
+Big Blind: folds
+*** TURN *** [8c 4s 6s] [5h]
+UTG: checks
+UTGplus1: checks
+*** RIVER *** [8c 4s 6s 5h] [Tc]
+UTG: checks
+UTGplus1: bets $0.43 
+UTG: calls $0.43 
+*** SHOW DOWN ***
+UTGplus1: shows [7s Ts] (a straight, Four to Eight)
+UTG: shows [Ad Td] (One pair)
+UTGplus1 collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.73 | Rake $0.08
+Board [8c 4s 6s 5h Tc]
+Seat 1: Hero (small blind) showed
+Seat 2: Big Blind (big blind) showed
+Seat 3: UTG showed [Ad Td]
+Seat 4: UTGplus1 showed [7s Ts] and won ($1.65) with a straight, Four to Eight
+Seat 5: UTGplus2 showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434258318: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:17:03
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($7.54 in chips)
+Seat 2: UTG ($3.28 in chips)
+Seat 3: UTGplus1 ($9.73 in chips)
+Seat 4: UTGplus2 ($11.96 in chips)
+Seat 5: Dealer ($13.84 in chips)
+Seat 6: Hero ($12 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Ks 8d]
+UTG: folds
+UTGplus1: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Hero: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) won ($0.12)
+Seat 6: Hero (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434258346: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:17:07
+Table '#952' 6-max Seat #4 is the button
+Seat 1: UTG ($11.96 in chips)
+Seat 2: UTGplus1 ($2.52 in chips)
+Seat 3: UTGplus2 ($3.28 in chips)
+Seat 4: Dealer ($2.81 in chips)
+Seat 5: Small Blind ($7.49 in chips)
+Seat 6: Hero ($11.98 in chips)
+Small Blind: posts small blind $0.02
+Hero: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7d Jh]
+UTG: folds
+UTGplus1: calls $0.05 
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Hero: checks
+*** FLOP *** [9h Qc 3c]
+Hero: checks
+UTGplus1: bets $0.05 
+Hero: folds
+Uncalled bet ($0.05) returned to UTGplus1
+UTGplus1: doesn't show hand
+UTGplus1 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Board [9h Qc 3c]
+Seat 1: UTG showed
+Seat 2: UTGplus1 won ($0.12)
+Seat 3: UTGplus2 showed
+Seat 4: Dealer (button) showed
+Seat 5: Small Blind (small blind) showed
+Seat 6: Hero (big blind) showed
+
+
+
+PokerStars Zoom Hand #3434258383: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:17:13
+Table '#952' 6-max Seat #1 is the button
+Seat 1: Dealer ($5.41 in chips)
+Seat 2: Hero ($11.93 in chips)
+Seat 3: Big Blind ($4.77 in chips)
+Seat 4: UTG ($5.34 in chips)
+Seat 5: UTGplus1 ($4.88 in chips)
+Seat 6: UTGplus2 ($4.24 in chips)
+Hero: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [Qc Jd]
+UTG: folds
+UTGplus1: calls $0.05 
+UTGplus2: folds
+Dealer: calls $0.05 
+Hero: raises $0.23 to $0.25
+Big Blind: folds
+UTGplus1: folds
+Dealer: calls $0.20 
+*** FLOP *** [9s Qs Js]
+Hero: bets $0.40 
+Dealer: calls $0.40 
+*** TURN *** [9s Qs Js] [6d]
+Hero: bets $0.85 
+Dealer: folds
+Uncalled bet ($0.85) returned to Hero
+Hero: doesn't show hand
+Hero collected $1.33 from pot
+*** SUMMARY ***
+Total pot $1.4 | Rake $0.07
+Board [9s Qs Js 6d]
+Seat 1: Dealer (button) showed
+Seat 2: Hero (small blind) won ($1.33)
+Seat 3: Big Blind (big blind) showed
+Seat 4: UTG showed
+Seat 5: UTGplus1 showed
+Seat 6: UTGplus2 showed
+
+
+
+PokerStars Zoom Hand #3434258877: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:18:24
+Table '#952' 6-max Seat #6 is the button
+Seat 1: Small Blind ($9.55 in chips)
+Seat 2: Big Blind ($5.68 in chips)
+Seat 3: UTG ($4.99 in chips)
+Seat 4: UTGplus1 ($9.66 in chips)
+Seat 5: Hero ($12.61 in chips)
+Seat 6: Dealer ($9.10 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [As 2d]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: doesn't show hand
+Big Blind collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0.00
+Seat 1: Small Blind (small blind) showed
+Seat 2: Big Blind (big blind) won ($0.07)
+Seat 3: UTG showed
+Seat 4: UTGplus1 showed
+Seat 5: Hero showed
+Seat 6: Dealer (button) showed
+
+
+
+PokerStars Zoom Hand #3434258943: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:18:32
+Table '#952' 6-max Seat #2 is the button
+Seat 1: Hero ($12.61 in chips)
+Seat 2: Dealer ($7.99 in chips)
+Seat 3: Small Blind ($10.74 in chips)
+Seat 4: Big Blind ($2.91 in chips)
+Seat 5: UTG ($7.20 in chips)
+Seat 6: UTGplus1 ($2.79 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3s Jd]
+UTG: raises $0.15 to $0.15
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: calls $0.13 
+Big Blind: calls $0.10 
+*** FLOP *** [8d As 6d]
+Small Blind: checks
+Big Blind: checks
+UTG: checks
+*** TURN *** [8d As 6d] [Kc]
+Small Blind: checks
+Big Blind: checks
+UTG: checks
+*** RIVER *** [8d As 6d Kc] [7d]
+Small Blind: checks
+Big Blind: bets $0.05 
+UTG: folds
+Small Blind: folds
+Uncalled bet ($0.05) returned to Big Blind
+Big Blind: doesn't show hand
+Big Blind collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02
+Board [8d As 6d Kc 7d]
+Seat 1: Hero showed
+Seat 2: Dealer (button) showed
+Seat 3: Small Blind (small blind) showed
+Seat 4: Big Blind (big blind) won ($0.43)
+Seat 5: UTG showed
+Seat 6: UTGplus1 showed
+
+
+
+PokerStars Zoom Hand #3434259006: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:18:42
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($3.84 in chips)
+Seat 2: UTG ($5.33 in chips)
+Seat 3: Hero ($12.61 in chips)
+Seat 4: UTGplus2 ($7.63 in chips)
+Seat 5: Dealer ($18.85 in chips)
+Seat 6: Small Blind ($4.59 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7s 3c]
+UTG: folds
+Hero: folds
+UTGplus2: folds
+Dealer: raises $0.15 to $0.15
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.10) returned to Dealer
+Dealer: doesn't show hand
+Dealer collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: Hero showed
+Seat 4: UTGplus2 showed
+Seat 5: Dealer (button) won ($0.12)
+Seat 6: Small Blind (small blind) showed
+
+
+
+PokerStars Zoom Hand #3434259035: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:18:46
+Table '#952' 6-max Seat #3 is the button
+Seat 1: UTGplus1 ($4.57 in chips)
+Seat 2: UTGplus2 ($4.95 in chips)
+Seat 3: Dealer ($11.98 in chips)
+Seat 4: Small Blind ($7.99 in chips)
+Seat 5: Big Blind ($5 in chips)
+Seat 6: Hero ($12.61 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [7h 7s]
+Hero: raises $0.17 to $0.17
+UTGplus1: folds
+UTGplus2: folds
+Dealer: folds
+Small Blind: folds
+Big Blind: folds
+Uncalled bet ($0.12) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0.00
+Seat 1: UTGplus1 showed
+Seat 2: UTGplus2 showed
+Seat 3: Dealer (button) showed
+Seat 4: Small Blind (small blind) showed
+Seat 5: Big Blind (big blind) showed
+Seat 6: Hero won ($0.12)
+
+
+
+PokerStars Zoom Hand #3434259171: Hold'em No Limit ($0.02/$0.05) - 2017/03/08 20:19:06
+Table '#952' 6-max Seat #5 is the button
+Seat 1: Big Blind ($6.04 in chips)
+Seat 2: UTG ($4.38 in chips)
+Seat 3: UTGplus1 ($4.96 in chips)
+Seat 4: Hero ($12.68 in chips)
+Seat 5: Dealer ($2.91 in chips)
+Seat 6: Small Blind ($2.36 in chips)
+Small Blind: posts small blind $0.02
+Big Blind: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Hero [3d Qh]
+UTG: folds
+UTGplus1: folds
+Hero: folds
+Dealer: folds
+Small Blind: raises $0.18 to $0.20
+Big Blind: calls $0.15 
+*** FLOP *** [4h Tc 8c]
+Small Blind: bets $0.35 
+Big Blind: calls $0.35 
+*** TURN *** [4h Tc 8c] [4d]
+Small Blind: bets $1.81 and is all-in
+Big Blind: folds
+Uncalled bet ($1.81) returned to Small Blind
+Big Blind: Table leave user
+Small Blind: doesn't show hand
+Small Blind collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.1 | Rake $0.05
+Board [4h Tc 8c 4d]
+Seat 1: Big Blind (big blind) showed
+Seat 2: UTG showed
+Seat 3: UTGplus1 showed
+Seat 4: Hero showed
+Seat 5: Dealer (button) showed
+Seat 6: Small Blind (small blind) won ($1.05)
+
+
+
+

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A0A6755-3109-4A19-A645-3C9E5346CBA6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>PokerShark</RootNamespace>
+    <AssemblyName>PokerShark</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Cards\Card.cs" />
+    <Compile Include="Cards\Suit.cs" />
+    <Compile Include="Cards\Value.cs" />
+    <Compile Include="Cards\Deck.cs" />
+    <Compile Include="Cards\ShortNameAttribute.cs" />
+    <Compile Include="Games\Player.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\PairEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\HighCard.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\IHoldEmHand.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\Pair.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\TwoPair.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\ThreeOfAKind.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\Straight.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\Flush.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\StraightFlush.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\FiveCardHand.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\HandEvaluatorBase.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\FourOfAKind.cs" />
+    <Compile Include="Games\TexasHoldEm\Board.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\HighCardEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\TwoPairEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\ThreeOfAKindEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\HandEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\StraightEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\FlushEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\FullHouseEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\FullHouse.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\FourOfAKindEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Evaluators\StraightFlushEvaluator.cs" />
+    <Compile Include="Games\TexasHoldEm\Hands\HoleCards.cs" />
+    <Compile Include="Games\TexasHoldEm\Calculators\MonteCarloEquityCalculator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Cards\" />
+    <Folder Include="Games\" />
+    <Folder Include="Games\TexasHoldEm\" />
+    <Folder Include="Games\TexasHoldEm\Evaluators\" />
+    <Folder Include="Games\TexasHoldEm\Hands\" />
+    <Folder Include="Games\TexasHoldEm\Calculators\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
